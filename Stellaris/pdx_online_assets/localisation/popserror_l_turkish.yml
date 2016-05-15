@@ -1,0 +1,17 @@
+﻿l_turkish:
+ POPS_invalid-email: "Geçersiz eposta"
+ POPS_account-exists: "Bu epostayı kullanan bir hesap zaten mevcut"
+ POPS_dynamodb-failure: "Bağlantı başarısız"
+ POPS_ua: "Geçersiz"
+ POPS_not-authorized: "Girdiğiniz eposta ve şifre eşleşmiyor"
+# These should "never" happen, we should have validated before we sent the data
+ POPS_bad-password-length: "Şifre çok kısa" #Might be too long to, but upper limit is 128 chars (at the time of writing)
+ POPS_missing-required-account-details-keys: "Gerekli bir bilgiyi atladınız"
+ POPS_invalid-country-code: "Geçersiz ülke kodu"
+ POPS_invalid-language-code: "Geçersiz dil kodu"
+ POPS_invalid-ISO-8601-format: "Geçersiz tarih formatı"
+# These should also not happen, but are not related to validating our form
+ POPS_parse-failure: "Uygulama hatası (Ayrışma)"
+ POPS_unsupported-account-details-keys: "Uygulama Hatası (Geçersiz Şifre)"
+ POPS_invalid-script-code: "Uygulama Hatası (Geçersiz Script)"
+ POPS_internal-error: "Bilinmeyen hata"
