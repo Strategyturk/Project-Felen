@@ -1,0 +1,107 @@
+﻿l_english:
+ ####################################
+ # Alpha Naming Convention - WILL LIKELY BE CHANGED IF SECTIONS ARE REDESIGNED
+ #
+ # Mid sections have a flavor-name fitting to number of weapon/utility slots followed by the key-word "Core"
+ # Front sections have a flavor-name followed by the key-word "Breaker"
+ # Rear sections have a flavor-name followed by the key-word "Bulwark"
+ #
+ ####################################
+ 
+ 
+ ####################################
+ # Battleship
+ ####################################
+ BATTLESHIP_BOW_L1M1S2:0 "Yıldız Kıran"
+ BATTLESHIP_BOW_L1S4:0 "Dev Kıran"
+ BATTLESHIP_BOW_L2:0 "Şok Kıran"
+ BATTLESHIP_BOW_M1S2SHB:0 "Kitle Kıran"
+ BATTLESHIP_BOW_M2S4:0 "Yaşam Kıran"
+ BATTLESHIP_BOW_M3S2:0 "Ruh Kıran"
+ BATTLESHIP_MID_L2S4:0 "Nova Çekirdeği"
+ BATTLESHIP_MID_L1M4:0 "Fırtına Getiren Çekirdeği"
+ BATTLESHIP_MID_L2M2:0 "Batöz Çekirdeği"
+ BATTLESHIP_MID_L3:0 "Tekillik Çekirdeği"
+ BATTLESHIP_MID_M4SHB:0 "İntikam Çekirdeği"
+ BATTLESHIP_MID_S4LHB:0 "Behemot Çekirdeği"
+ BATTLESHIP_STERN_M1S2:0 "Ebediyet Küpeştesi"
+ BATTLESHIP_STERN_L1:0 "Sonsuzluk Küpeştesi"
+ BATTLESHIP_STERN_M2:0 "Çağ Küpeştesi"
+ BATTLESHIP_STERN_S4:0 "Zirve Küpeştesi"
+
+ ####################################
+ # Colonizer
+ ####################################
+ COLONIZER_MID_M1S1:0 "Ark Çekirdeği"
+ COLONIZER_MID_S3:0 "Tohum Çekirdeği"
+ COLONIZER_MID_MU1:0 "Gaia Çekirdeği"
+
+ ####################################
+ # Constructor
+ #################################### 
+ CONSTRUCTOR_MID_M1S1:0 "Çevirici Çekirdeği"
+ CONSTRUCTOR_MID_S3:0 "Geliştirici Çekirdeği"
+ CONSTRUCTOR_MID_MU1:0 "Isıtıcı Çekirdeği"
+
+ ####################################
+ # Corvette
+ #################################### 
+ CORVETTE_MID_M1S1:0 "Ateşleyici Çekirdeği"
+ CORVETTE_MID_S3:0 "Avcı Çekirdeği"
+ CORVETTE_MID_S1:0 "Değiştirici Çekirdeği"
+
+ ####################################
+ # Cruiser
+ #################################### 
+ CRUISER_BOW_L1:0 "Koruma Kıran"
+ CRUISER_BOW_M1S2:0 "Ekran Kıran"
+ CRUISER_BOW_M2:0 "Zincir Kıran"
+ CRUISER_MID_S2HB:0 "Hayalet Çekirdeği"
+ CRUISER_MID_L1M1:0 "Cezalandırıcı Çekirdeği"
+ CRUISER_MID_M3:0 "Orakçı Çekirdeği"
+ CRUISER_MID_M2S2:0 "Öfke Çekirdeği"
+ CRUISER_STERN_M1:0 "Koruyucu Küpeştesi"
+ CRUISER_STERN_S2:0 "Muhafız Küpeştesi"
+
+ ####################################
+ # Destroyer
+ #################################### 
+ DESTROYER_BOW_M1S2:0 "Kısmet Kıran"
+ DESTROYER_BOW_S3:0 "Umut Kıran"
+ DESTROYER_BOW_L1:0 "İnanç Kıran"
+ DESTROYER_STERN_S2:0 "Flaş Küpeştesi"
+ DESTROYER_STERN_M1:0 "Parlak Küpeştesi"
+
+ ####################################
+ # Science
+ #################################### 
+ SCIENCE_MID_M1S1:0 "Zihin Çekirdeği"
+ SCIENCE_MID_S3:0 "Öncü Çekirdeği"
+ SCIENCE_MID_MU1:0 "Kavrama Çekirdeği"
+ 
+ ####################################
+ # Science
+ #################################### 
+ LIGHT_MILITARY_STATION_SECTION:0 "Hafif İstasyon Bölgesi"
+ MEDIUM_MILITARY_STATION_SECTION:0 "Orta İstasyon Bölgesi"
+ HEAVY_MILITARY_STATION_SECTION:0 "Ağır İstasyon Bölgesi"
+ HANGAR_MILITARY_STATION_SECTION:0 "Hangar İstasyon Bölgesi"
+ LIGHT_LARGE_MILITARY_STATION_SECTION:0 "Hafif İstasyon Bölgesi"
+ MEDIUM_LARGE_MILITARY_STATION_SECTION:0 "Orta İstasyon Bölgesi"
+ HEAVY_LARGE_MILITARY_STATION_SECTION:0 "Ağır İstasyon Bölgesi"
+ HANGAR_LARGE_MILITARY_STATION_SECTION:0 "Hangar İstasyon Bölgesi"
+ OUTPOST_STATION_SECTION:0 "Sınır Karakolu Çekirdeği"
+
+ ####################################
+ # Other
+ #################################### 
+ MISSILE_DEFAULT:0 "Füze Bölgesi"
+ DEFAULT_CONSTRUCTION_SECTION:0 "Çevirici Çekirdeği"
+ DEFAULT_COLONIZATION_SECTION:0 "Kurtarıcı Çekirdeği"
+ DEFAULT_SCIENCESHIP_SECTION:0 "Zihin Çekirdeği"
+ DEFAULT_ORBITAL_STATION_SECTION:0 "Yörünge İstasyonu Yapısı"
+ DEFAULT_MINING_STATION_SECTION:0 "Maden İstasyonu Yapısı"
+ DEFAULT_RESEARCH_STATION_SECTION:0 "Araştırma İstasyonu Yapısı"
+ DEFAULT_WORMHOLE_STATION_SECTION:0 "Solucan Deliği İstasyonu Yapısı"
+ DEFAULT_MILITARY_STATION_SECTION:0 "Temel Askeri Platform"
+ DEFAULT_TRANSPORT_SECTION:0 "Nakliye Çekirdeği"

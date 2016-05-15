@@ -1,0 +1,9 @@
+﻿l_english:
+ ENTERING_GAME_LOBBY:0 "Oyun Ayarları Giriliyor"
+ SERVER_LAUNCHING_MP:0 "Çokluoyuncu Başlatılıyor"
+ SERVER_NAME:0 "Sunucu Adı: $NAME$"
+ SERVER_PASSWORD:0 "Sunucu Şifresi: $PASSWORD$"
+ LAUNCHING_GAME:0 "Oyun Başlatılıyor"
+ STANDALONE_WAITING_FOR_PLAYERS:0 "$NUM$ Oyuncu Bekleniyor"
+ RECEIVED_GAMESERVER_ID:0 "Geçerli Sunucu Kimliği: $SERVERID$"
+ RECEIVED_LOBBY_SERVER:0 "Geçerli Sunucu Lobisi"

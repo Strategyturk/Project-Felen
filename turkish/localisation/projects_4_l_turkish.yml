@@ -1,0 +1,16 @@
+﻿l_english:
+
+ ####################################
+ # Special Projects
+ ####################################
+
+ hallucinogen_removal:0 "Hallüsinojen Temizleme"
+ hallucinogen_removal_DESC:1 "[Root.GetName] atmosferinden hallüsinojen temizlemeye girişimi."
+ impact_defence_system:0 "Asteroit Savunma Sistemi"
+ impact_defence_system_DESC:0 "[Root.GetName] kolonisi üzerinde sıklıkla görülerek gezegene dert olan asteroit etkisinden en iyi nasıl korunacağımızı araştırmalıyız."
+ titanic_life_study_normal:0 "Dev Canlı Araştırması"
+ titanic_life_study_normal_DESC:1 "[Root.Get.Name] üzerindeki Dev Canlı hakkında çalışarak, umarız ki onları anlayabilir ve hatta iletişim kurabiliriz."
+ titanic_life_study_mean:0 "Dev Canlı Nekropsisi"
+ titanic_life_study_mean_DESC:1 "[Root.Get.Name] üzerinden Dev Canlı toplayarak, yakında onlardan en iyi şekilde yararlanabilmeyi çözebiliriz!"
+ titanic_life_study_nice:0 "Dev Canlı Gözlemi"
+ titanic_life_study_nice_DESC:1 "[Root.GetName] üzerindeki Dev Canlı hakkında dikkatlice gözlem yaparak, umarız ki onlarla uyum içinde yaşayabiliriz."
