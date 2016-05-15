@@ -1,2 +1,2 @@
-# StellarisTR
-Stellaris Türkçe Çeviri Çalışması
+# Stellaris Türkçe
+Strategyturk Ekibinin Stellaris Türkçe Çeviri Çalışması
