@@ -1,0 +1,495 @@
+﻿
+#Strategyturk
+--------
+##Türkçe Çeviri Ekibi
+Ali Alper Duman
+Savaş Coruh (CradonWar)
+Berkay Cem Kaya (Ragnvaldr)
+Burak Şık (brk007)
+Mert Hasılcıoğlu (Lothebork)
+… (Coldhands)
+
+www.strategyturk.com © 2016
+
+
+#Paradox Stellaris Oyun Ekibi
+--------
+##Genel Müdür Yardımcısı Yapımcı Yönetmeni
+Johan Andersson
+
+##Oyun Yöneticisi
+Henrik Fåhraeus
+
+##Proje Lideri
+Rikard Åslund
+
+##Yapımcı
+Anna Norrevik
+
+##Tasarımcılar
+Henrik Fåhraeus
+Joakim Andreasson
+Daniel Moregård
+
+##Ek Tasarımcılar
+Johan Andersson
+
+##Yazılımcılar
+Daniel Eriksson
+Alexander Ivannikov
+Mehrnaz Amanat Bari
+Rikard Åslund
+Joakim Bennedich
+
+##Ek Yazılımcılar
+Johan Lerström
+Jonas Wickerström
+Martin Anward
+Mohammed Al-Sader
+Niklas Strid
+
+##İçerik Tasarımı Lideri
+Henrik Eklund
+
+##İçerik Tasarımcıları
+Maximilian Olbers
+Niclas Karlsson
+David Ballantyne
+Rufus Tronde
+
+##Sanat Yöneticisi
+Fredrik Toll
+
+##2B Sanatçıları
+Aline Gladh
+Simon Gunnarsson
+Jonas Jakobsson
+Jenny Holmer
+
+##Konsept Sanatçısı
+Erik Nilsson
+
+##Kapak Sanatçısı
+Aline Gladh
+
+##Ek 2B Sanatçıları
+Frida Eriksson
+Anton Hultdin
+Johan Lundqvist
+Pontus Olofsson
+Timor Khanagov
+Carlos Lundhall
+
+##3B Sanatçıları
+Joakim Larsen
+Markus Krantz
+Viktor Nyström
+Magnus Nyström
+Maxemilian Roberts
+Robin Skog
+Helena Kasper
+Staffan Norling
+Marcus Persson
+Fredrik Toll
+
+##Animatörler
+Niklas Tammpere
+Nancy Lai
+
+##Ek Animatörler
+Patrick Kling
+
+##Kalite Kontrol Yerleştirmesi
+Olga Koter
+Aziz Faghihinejad
+Leo Larsson
+Karim Muammar
+
+##Kalite Kontrol
+Peter Skager
+Daniel Sjöberg
+Daniel Olsson
+Patric Lindbergh
+Malin Jakobsson
+Rufus Magnusson
+Carsten t'Mannetje
+
+##Ek Kalite Kontrol
+Alexander Lundström
+
+##Ses Yöneticisi
+Björn Iversen
+
+##Besteci
+Andreas Waldetoft
+
+##Ses Sanatçısı
+Kola Krauze
+
+##Ek Ses Tasarımcısı
+Martin Skogehall
+
+##Arayüz Tasarımcısı
+Daniel Moregård
+
+##Kılavuz
+Troy Goodfellow
+
+
+#Paradox Geliştirici Stüdyosu
+--------
+##EVP Stüdyoları
+Mattias Lilja
+
+##Yapımcı Başkanı
+Thomas Johansson
+
+##Baş Yapımcı
+Linda Kiby
+
+##Yapımcı
+Anna Norrevik
+
+##Yapımcı Ortağı/Editör/Lokalizasyon Yöneticisi
+Sara Wendel-Örtqvist
+
+##DLC Yöneticisi
+Pernilla Sparrhult
+
+##Viki Yapımcı ve Sorumlusu
+Magne Skjæran
+
+##Teknik Scripterlar
+Niklas Strid
+Joel Hansson
+
+##Teknik Yönetici
+Fredrik Zetterman
+
+##Oyun Motoru Lideri
+John Wordsworth
+
+##Yazılımcı Yöneticisi
+Olof Björk
+
+##Motor Yazılımcıları
+Marcus Beausang
+John Wordsworth
+Rickard Nyberg
+
+##Yapı Mühendisi
+Per Hasselström
+
+##Araç Yazılımcısı
+Johan Yngman
+
+##3B Sanat Yöneticisi
+Fredrik Toll
+
+##2B Sanat Yöneticisi
+Pontus Olofsson
+
+##Script Yöneticisi
+Tobias Bodlund
+
+##Kalite Kontrol Yöneticisi
+Mario Lasan
+
+##Kalite Kontrol
+Filippa Gannholm
+Zeke Lugmair
+Jake Leiper-Ritchie
+Jesper Norberg
+Alexander Oltner
+Emil Tisander
+
+##Topluluk Yöneticisi
+Björn Blomberg
+
+##Motor Takımı
+John Wordsworth
+Marcus Beausang
+Per Hasselström
+Johan Yngman
+Richard Nyberg
+
+##İçerik Tasarımcıları
+Jakob Have
+Marcus Olsen
+Henrik Lohmander
+Mathilda Bjarnehed
+Camilla Isaksson
+Petter Vilberg
+
+##Yazılımcılar
+Henrik Hansson
+Jimmy Rönn
+Ilya Nikitin
+Igor Aleksandrowicz
+Gwenael Tranvouez
+Gustav Palmqvist
+Tomasz Kowalczyk
+Carl Carenvall
+Martin Hesselborn
+Rickard Lagerbäck
+Petter Hansson
+
+##Sanatçılar
+Staffan Norling
+Mats Virtanen 
+Bjarne Hallberg
+
+##Tasarımcılar
+Chris King
+Dan Lind
+
+##Proje Liderleri
+Anna Norrevik
+Martin Anward
+
+
+#Paradox Stellaris Ekibi
+--------
+##Marka Yönetimi
+Tomas Härenstam
+
+##Pazarlama
+Steven K Wells
+
+##Satış
+Daniel Lagergren
+Fang Chen
+
+Kalite Kontrol Proje Koordinatörleri
+Niklas Ivarsson
+Malin Furöstam
+
+##Ek Pazarlama
+Matthijs Hoving 
+
+
+#Paradox Interactive
+--------
+#Yönetim 
+ 
+##CEO
+Fredrik Wester
+
+##CFO
+Andras Vajlok
+
+##COO
+Susana Meza Graham
+
+##CPO
+Johan Sjöberg
+
+##CIO 
+John Hargelid
+
+##Paradox Stüdyo Grubu Yöneticisi
+Mattias Lilja
+
+##Ürün Başkanı
+Shams Jorjani
+
+##CMO
+Daniela Sjunnesson
+Production Team
+
+##Ürün Yöneticisi
+Jörgen Björklund
+
+##Kıdemli Yapımcılar
+Andreas Renström
+Florian Schwarzer
+Joe Fricano
+
+##Yapımcılar
+Staffan Berglén
+Patrick Berglind
+Kandra Dahlgren
+Robin Cederholm
+
+##Yapımcı Ortaklar
+Angelica Uhlan
+Peter Cornelius
+Niklas Lundström
+
+
+#Kullanıcı Oyun Araştırma Ekibi
+--------
+##Kullanıcı Araştırma Yöneticisi
+Karl Leino
+
+##Kullanıcı Araştırmacıları
+Tobias Viklund
+Jean-Luc Potte
+Henrik Edlund
+
+##Kullanıcı Araştırmacı Ortağı
+Anna Ström
+
+#Kalite Kontrol Ekibi
+
+##Kıdemli Kalite Kontrol Yöneticisi
+Artur Foxander
+
+##Kalite Kontrol Yöneticisi
+Loke Norman
+
+##Kalite Kontrol Uzmanları
+Felix Gladitz
+Niklas Ivarsson
+Andrei Zainea
+
+##Kalite Kontrol Denetleyicileri
+Pontus Anehäll
+Emil Andersson
+Bengin Bayrak
+Erik Elgerot
+Malin Furöstam
+Victor Järnberg
+Kimberly Stinson
+Daniel Teige
+
+
+#Marka Yönetim Ekibi
+--------
+##Marka Yöneticileri
+Marco Behrmann
+Stefan Eld
+Tomas Härenstam
+Jakob Munthe
+
+##Süreç Yöneticisi
+Martin Park
+
+##Kazanç Ortağı
+Nils Brolin
+
+#Pazarlama & Satış
+
+##Pazarlama Şefi
+Daniela Sjunnesson
+
+##Pazarlama Başkanı
+Petra Takeva
+
+##Pazarlama Yapımcı Yönetmeni 
+Steven K Wells
+
+##Fragman & Video Yapımcısı
+Marcus Herbertsson
+
+##Yayın Yapımcısı
+Anders Carlsson
+ 
+##Olay Koordinatörü
+Veronica Gunlycke
+ 
+##Kıdemli Topluluk Yöneticisi
+Malin Söderberg
+
+##Topluluk Yöneticisi 
+Graham Murphy
+
+##Forum Ve Destek Yöneticisi
+Christian Arvidsson
+ 
+##Çevrimiçi Pazarlama Yöneticisi
+Mats Wall
+
+##Arayüz Geliştiricisi
+Alberto Blázquez
+
+##Eposta Pazarlama Yöneticisi
+Andreas Nyberg
+
+##Kullanıcı Kazanç Yöneticisi
+Mi Ahnhem Thomsen
+
+##Grafik Yapımcıları 
+Max Collin
+Adam Skarin
+
+##Satış Yöneticileri
+Filip Sirc
+Fang Chen
+
+##Direkt Satış Geliştiricisi 
+Daniel Lagergren
+
+
+#Teknoloji, Analiz & Geliştirme
+--------
+##Teknik Yönetmen
+Christian Westman
+
+##Kıdemli Altyapı Geliştiricisi
+Anders Törlind
+
+##Altyapı Geliştiricisi
+Alexander Altanis
+Mikael Berg
+
+##Web Geliştiricisi
+Johan Li
+
+##Analiz Ekibi
+Magnus Eriksson
+Niklas Nordansjö
+
+##BT Ekibi
+Henrik Hjelm
+
+##BT Teknisyenleri
+Johannes Ek
+Richard Lindkvist
+
+
+#Harici Ortaklar
+--------
+##Lokalizasyon
+İspanyolca - QLOC
+Fransızca - S&H Entertainment Localization
+Almanca - S&H Entertainment Localization
+Lehçe - QLOC
+Rusça - The Most Games
+Brezilya Portekizcesi - S&H Entertainment Localization
+Türkçe - Strategyturk (Gönüllü)
+
+##Beta Denetleyicileri
+Markus Grebe
+Lukasz Damentko
+Magne Skjæran
+Kamil Kowalczyk
+Michael Aaron Hoselton
+Peter Deadman
+Dylan Anthony Skoda
+Christopher Kenneth O'Keefe
+Cathrine Zangerl
+Jeroen Elfrink
+Erik Brian Olmstead
+Them Bo Bojesen Jensen
+Tomasz Wieczorek
+Mark Charters
+Samuel Frederick Allessandro Marrello
+Isaac Lamb
+Christian Borrelli
+Fabian Schneider
+
+##Ses Kayıt Stüdyosu:
+Cineast Dub AB
+
+
+--------
+
+
+Başarımızda katkısı bulunan,
+bütün forum üyelerimiz, ortaklarımız
+ve destekçilerimize özel olarak teşekkürler.
+
+
+
+ŞAMPİYON BEŞİKTAŞ!
