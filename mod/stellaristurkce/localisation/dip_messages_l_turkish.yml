@@ -10,16 +10,16 @@
  04_HOSTILE_GREETING:0 "[Root.GetName] tarafından fark edildin. Kısa konuş."
  05_HOSTILE_GREETING:0 "Neden bizi yalnız bırakmıyorsun, [From.GetSpeciesName]?"
  06_HOSTILE_GREETING:1 "İğrenç [From.GetSpeciesNamePluralInsult], galaktik barışa bir tehditsiniz!"
- 07_HOSTILE_GREETING:1 "Kelimelerini dikkatli seç, [From.GetSpeciesNameInsult]. Ordumuz zavallı ülkenizi tek bir hamlede ezer. "
+ 07_HOSTILE_GREETING:1 "Kelimelerini dikkatli seç, [From.GetSpeciesNameInsult]. Ordumuz zavallı ulusunuzu tek bir hamlede ezer. "
  08_HOSTILE_GREETING:1 "[Root.GetName] tarafından merhamet göreceğinizi düşünmeyin çünkü siz [From.GetSpeciesNamePluralInsult] kendinizi savunamayacak kadar aptalsınız.”
  09_HOSTILE_GREETING:1 "Kafir [From.GetSpeciesNameInsult], çirkin [From.GetRandomSpeciesSound] sesiniz [Root.GetName] tarafından duyuldu. Ne istiyorsun?"
  10_HOSTILE_GREETING:0 "[From.GetSpeciesName], maddecilikle ilgili kafir görüşleriniz türünüzü ruhsuz makinelere dönüştürdü.”
- 11_HOSTILE_GREETING:0 "[From.GetSpeciesName], ülkeniz hem kusurlu hem de ilkel. Böyle bir verimsizliğe tanık olmak acı verici."
+ 11_HOSTILE_GREETING:0 "[From.GetSpeciesName], ulusunuz hem kusurlu hem de ilkel. Böyle bir verimsizliğe tanık olmak acı verici."
  12_HOSTILE_GREETING:0 "Ah, yobaz [From.GetSpeciesName]. [Root.GetName] ülkesini aşağılık dininize çevirmeye geldiyseniz iletişimi kesiyorum.”
  13_HOSTILE_GREETING:0 "[From.GetSpeciesName]. Milletinizin, halkımızca hoş karşılanmadığını bilmelisiniz."
  14_HOSTILE_GREETING:0 "Kendi nüfusunuzu acınacak toplumculuğunuzla köleleştirdiğiniz gibi bizi köleleştirmenize izin vermeyeceğiz."
  15_HOSTILE_GREETING:1 "[From.GetSpeciesName], ulusumuz size karşı hissettiği aşağılama duygusuyla birleşti. Sadece görünüşünüzü bile midemi bulandırıyor.”
- 16_HOSTILE_GREETING:0 "[From.GetSpeciesName], insanlarınız ne kadar yalnız ve bencil olmalı.  Bireycilik için olan delice arayışınızda hükümetiniz onlara bir amaç vermekte tamamen başarısız oldu.”
+ 16_HOSTILE_GREETING:0 "[From.GetSpeciesName], insanlarınız ne kadar yalnız ve bencil olmalı. Bireycilik için olan delice arayışınızda hükümetiniz onlara bir amaç vermekte tamamen başarısız oldu.”
  17_HOSTILE_GREETING:0 "[From.GetSpeciesNameInsult], bırakın uzaya çıkmayı, sizin gibi yaratıkların nasıl var olduklarını hiçbir zaman anlamayacağım!"
  18_HOSTILE_GREETING:1 "[From.GetSpeciesNameInsult], sizin iğrenç türünüzle bir işimiz yok. [Root.GetName] ile neden iletişime geçtiniz?"
  19_HOSTILE_GREETING:1 "Sefil bir uzay-[From.GetSpeciesNameInsult], [Root.GetName] tarafını ilgilendirecek ne diyebilir ki?"
@@ -37,7 +37,7 @@
  05_NEUTRAL_GREETING:0 "Barış ve uzlaşma ruhuyla konuşalım, [From.GetSpeciesName]."
  06_NEUTRAL_GREETING:0 "Askeri maceracılığınız bizim için kaygı verici, [From.GetSpeciesName]. Şiddet hiçbir zaman cevap değildir."
  07_NEUTRAL_GREETING:0 "[Root.GetName] için konuşuyorum. Ordumuzun bu kanalı izlediğini bilin."
- 08_NEUTRAL_GREETING:0 "Barışçıl yollarınızı tekrar gözden geçirmelisiniz, [From.GetSpeciesName]. Birilerinin bundan istifade etmesi kaçınılamaz."
+ 08_NEUTRAL_GREETING:0 "Pasifist yollarınızı tekrar gözden geçirmelisiniz, [From.GetSpeciesName]. Birilerinin bundan istifade etmesi kaçınılamaz."
  09_NEUTRAL_GREETING:0 "Ruhlar size barış lütfetsin, [From.GetSpeciesName]. Sizin için ne yapabiliriz?"
  10_NEUTRAL_GREETING:0 "Maddecilik yolunu seçmiş olmanız bize kaygı veriyor, [From.GetSpeciesName]. Manevi ihtiyaçlarınızı unutmamalısınız."
  11_NEUTRAL_GREETING:0 "Çeviri programı aktif hale getirildi. Şimdi konuşabilirsiniz, [From.GetSpeciesName]."
@@ -58,8 +58,8 @@
  02_FRIENDLY_GREETING:0 "Hoşgeldiniz, arkadaşlar. [Root.GetName] sizin için bir şey yapabilirse lütfen söyleyin."
  03_FRIENDLY_GREETING:0 "[Root.GetName] size yardımda bulunmaya hazır, arkadaşlar. "
  04_FRIENDLY_GREETING:0 "Tanıdık bir [From.GetSpeciesName] yüzü görmek her zaman iyidir. [Root.GetName] sizin için ne yapabilir?"
- 05_FRIENDLY_GREETING:0 "Ülkeniz her zaman huzurlu olsun, arkadaş [From.GetSpeciesName]."
- 06_FRIENDLY_GREETING:0 "Belki de ordunuz caydırıcı bir silah görevini üstlenerek barşa katkı sağlıyor. Kararınıza güveniyoruz, arkadaş [From.GetSpeciesName]."
+ 05_FRIENDLY_GREETING:0 "Ulusunuz her zaman huzurlu olsun, arkadaş [From.GetSpeciesName]."
+ 06_FRIENDLY_GREETING:0 "Belki de ordunuz caydırıcı bir silah görevini üstlenerek diğer üluslara karşı barışa katkı sağlıyor. Kararınıza güveniyoruz, arkadaş [From.GetSpeciesName]."
  07_FRIENDLY_GREETING:0 "[Root.GetName] arkadaşlarını karşılar, soylu [From.GetSpeciesNamePlural]. Ordularımızın yardımcı olabileceği bir konu varsa haber verin."
  08_FRIENDLY_GREETING:0 "Ordunuzu güçlendirmenizi ısrarla tavsiye ediyoruz, arkadaş. [Root.GetName] sizi her zaman koruyamayabilir."
  09_FRIENDLY_GREETING:0 "İyi dilekler üzerinize olsun, yoldaş [From.GetSpeciesName]."
@@ -127,7 +127,7 @@
  01_FALLEN_EMPIRE_PATRONIZING_DOW_SELECT:0 "Bunun için daha hazır değilsin. Belki birkaç yüzyıl sonra."
  01_FALLEN_EMPIRE_PATRONIZING_DOW_ACCEPT:0 "Oh, aptal çocuk! Sizi hizaya getireceğiz."
  01_FALLEN_EMPIRE_ANGRY_DOW_SELECT:0 "Hayal et, edebiliyorsan, [From.GetSpeciesName] türünün olmadığı biz galaksi."
- 01_FALLEN_EMPIRE_ANGRY_DOW_ACCEPT:0 "Uzaylararası çalı çırpıdan başka bir şey değilsin. Bahçeyle ilgilenme zamanımız geldi."
+ 01_FALLEN_EMPIRE_ANGRY_DOW_ACCEPT:0 "Yıldızlararası çalı çırpıdan başka bir şey değilsin. Bahçeyle ilgilenme zamanımız geldi."
 
  # AI Personality-based replies
  # Honorbound Warriors
