@@ -3,55 +3,55 @@
  ####################################
  # Anomaly Categories
  ####################################
- rogue_moon_category:0 "Rogue Moon"
- rogue_moon_category_desc:1 "Initial scans of [Root.GetName] indicate unexpected differences to its parent planet."
- hollow_planet_category:0 "Hollow Planet"
- hollow_planet_category_desc:1 "Preliminary scans have shown that [Root.GetName] appears to be merely a hollow shell. We speculate that it may either be an entirely artificial creation, or it may once have been a normal planet which was somehow hollowed out."
- strong_magnetic_category:0 "Strong Magnetic Field"
- strong_magnetic_category_desc:0 "Initial scanning revealed little but that [Root.GetName] has an unusually strong magnetic field surrounding it."
- undiscovered_planetary_modifier_category:0 "Abnormal Conditions"
- undiscovered_planetary_modifier_category_desc:0 "Investigate the strange environment of [From.GetName]."
+ rogue_moon_category:0 "Göçebe Uydu"
+ rogue_moon_category_desc:1 "[Root.GetName] uydusunda yapılan ilk taramalar ana gezegeninden beklenilmeyen farklılıklar olduğunu gösteriyor."
+ hollow_planet_category:0 "Oyuk Gezegen"
+ hollow_planet_category_desc:1 "Ön taramalar [Root.GetName] gezegeninin içi boş bir kabuktan oluştuğunu gösteriyor. Bu gezegenin ya tamamen yapay bir oluşum olduğunu ya da bir zamanlar normal gezegen iken bir şekilde içinin boşaldığını tahmin ediyoruz."
+ strong_magnetic_category:0 "Güçlü Manyetik Alan"
+ strong_magnetic_category_desc:0 "İlk veriler [Root.GetName] gezegeninin etrafında normalden çok daha güçlü bir manyetik alanın olduğunu gösteriyor."
+ undiscovered_planetary_modifier_category:0 "Anormal Koşullar"
+ undiscovered_planetary_modifier_category_desc:0 "[From.GetName] gezegeninin tuhaf çevresini incele."
 
  ####################################
  # Anomaly Events
  ####################################
- anomaly.6000.name:0 "Rogue Moon"
+ anomaly.6000.name:0 "Göçebe Uydu"
  # "parent planet" and "its primary", pending PARENTPLANET loc key implementation
- anomaly.6000.desc:0 "[From.GetName] does not appear to be made up of a similar material to its parent planet, indicating that is was once a rogue planetoid which has been caught in its primary's gravity well. Further study may reveal where it originally came from."
- anomaly.6001.desc:0 "[From.GetName] contains a base!"
- anomaly.6002.name:0 "Hollow Planet"
- anomaly.6002.desc:1 "After extensive study, we have concluded that [From.GetName] is an artificial construct. Their working theory is that [From.GetName] was originally a fairly normal asteroid belt which was somehow crushed together to gather the required materials and then shaped into a hollow sphere."
- anomaly.6003.desc:1 "Much to our surprise, [From.GetName] appears to have begun life as a normal planet, but it has at some point been entirely hollowed out using an unknown mining technique which has left [From.GetName] a mere empty shell."
- anomaly.6004.name:0 "Strong Magnetic Field"
- anomaly.6004.desc:0 "Initial scanning revealed little but that [From.GetName] has an unusually strong magnetic field surrounding it. This interfered with detailed scans until the [Root.GetName] moved in for a closer look. The field seems to be caused by the high density of metallic ores found the planet's crust, which will likely be a boon to local mining endeavors."
- anomaly.6005.name:0 "Abnormal Conditions"
- anomaly.6005.desc:0 "Our scans are showing that [From.GetName] is rather unusual, a closer look is required."
- anomaly.6006.name:0 "Abnormal Conditions"
- anomaly.6006.desc:0 "Our scan of [From.GetName] is complete, Science Officer [Root.GetLeaderName] has prepared a report on the unusual conditions found here."
- anomaly.6006.a:0 "Report, [Root.GetLeaderName]."
- anomaly.6007.name:0 "Mineral Rich"
- anomaly.6007.desc:0 "[From.From.GetName] has an abundance of easily accessible minerals in this planet's crust, which should make mining here a lucrative business."
- anomaly.6008.desc:0 "[From.From.GetName] suffers from unstable weather patterns, with violent storms frequently appearing out of nowhere to wreak havoc on the surface. Wind farms would likely be able to supply bountiful energy here."
- anomaly.6009.desc:0 "[From.From.GetName] has evolved extremely hostile fauna, and the surface is rife with lethal predators waiting to ambush their next meal. Their biology offers great research opportunities."
- anomaly.6010.desc:0 "Although habitable, [From.From.GetName] has an almost non-existent magnetic field that offers little protection against cosmic radiation."
- anomaly.6011.desc:0 "[From.From.GetName] has an abnormally high magnetic field, caused by rich deposits of metallic ore. This will interfere with many of our instruments and computers, but the rich mining yield should more than make up for it."
- anomaly.6012.desc:0 "[From.From.GetName] has very unstable plate tectonics and is prone to massive earthquakes and volcanic activity. Deposits of valuable minerals are frequently exposed on the surface."
- anomaly.6013.desc:0 "[From.From.GetName] is tidally locked around its star, meaning that one side always has daylight while the other is locked in eternal darkness. If life exists here, it is likely limited to the twilight regions where the two sides meet."
- anomaly.6014.desc:0 "It seems [From.From.GetName] was once a gas giant, but its proximity to its star has burned away the thick atmosphere. All that remains now is a super-dense and mineral rich metallic core."
- anomaly.6015.desc:0 "The orbital path [From.From.GetName] takes around its star is littered with small asteroids, meteors, and comet swarms. Large impacts on the surface occur at an alarming frequency, often leaving behind valuable mineral deposits."
- anomaly.6016.desc:0 "[From.From.GetName] has an unusually large amount of natural satellites. Hundreds of small moons and moonlets orbit the planet, many possessing valuable mineral deposits."
- anomaly.6017.desc:0 "It appears that [From.From.GetName] been formed mostly out of carbon, and contains little oxygen. Not only is it rich in minerals, but volcanic eruptions frequently bring diamonds from the interior to the surface."
- anomaly.6018.desc:0 "Spectacular electrical storms wrack [From.From.GetName]'s atmosphere on a semi-regular basis. While it will likely not be much fun for the inhabitants, there are ample research opportunities here."
- anomaly.6019.desc:0 "[From.From.GetName] has an unusually low density, and therefore much lower gravity than most planets of comparable size."
- anomaly.6020.desc:0 "[From.From.GetName] is unusually dense, and so has uncomfortably high gravity. However, the amount of heavy metals present should greatly aid Physics research."
- anomaly.6021.desc:0 "[From.From.GetName] has either been artificially created or was somehow hollowed out. How or why we do not know, but investigating it promises to be fascinating."
- anomaly.6022.desc:0 "The cornucopia of easily accessible minerals in [From.From.GetName]'s crust provides a truly staggering opportunity for mining."
- anomaly.6023.desc:0 "It is unknown if [From.From.GetName] was simply formed this way, or if some unknown race once stripped it of resources. However, we do know that there are very few minerals to be found here."
- anomaly.6024.desc:0 "The lifeforms of [From.From.GetName] are built on a massive scale and can be incredibly dangerous even without meaning any harm. The less said about the gargantuan predators of this world the better, but they do represent a treasure trove of research data if any scientists are brave enough to try."
- anomaly.6025.desc:0 "Perhaps [From.From.GetName] once had a moon which was destroyed in some calamity, or perhaps its orbital debris never fully coalesced in the first place. Whatever the cause, this planet is surrounded by a belt of small asteroids."
- anomaly.6026.desc:0 "The scenery of [From.From.GetName] is simply beautiful, anyone living on this planet will be constantly finding new wonders to behold."
- anomaly.6027.desc:0 "Something in the air of [From.From.GetName] seems to put people in the mood to... reproduce. Needless to say, this rather made the ground-based part of the survey somewhat awkward."
- anomaly.6028.desc:0 "The air of [From.From.GetName] contains a natural hallucinogen. While this will keep people happy, and indeed it seems to aid the visualization of some of the more esoteric Physics problems, it will also distract people from other work."
+ anomaly.6000.desc:0 "[From.GetName] uydusunun ana gezegeniyle benzer materyallerden oluşmadığı görülüyor. Bu ayın bir zamanlar göçebe bir küçük gezegen iken daha sonra yerçekimi kuyusuna yakalandığını göstermektedir. İleri araştırmalar gezegenin aslen nereden geldiğini ortaya çıkarabilir."
+ anomaly.6001.desc:0 "[From.GetName] bir üsse sahip!"
+ anomaly.6002.name:0 "Oyuk Gezegen"
+ anomaly.6002.desc:1 "Kapsamlı araştırmalardan sonra, [From.GetName] gezegeninin yapay bir yapı olduğu sonucuna varıldı. Hala üzerinde çalışılan teoriye göre [From.GetName] esasen oldukça normal bir astroid kuşağı iken daha sonra bir şekilde gerekli materyaller toplanmak üzere çarpıştırılarak içi oyuk küre şekline getirildi."
+ anomaly.6003.desc:1 "Görünüşe bakılırsa [From.GetName] hayatına normal bir gezegen olarak başlamasına rağmen daha sonra bilinmeyen bir madencilik yöntemiyle içi tamamen boşaltılan bir kabuk haline getirilmiş."
+ anomaly.6004.name:0 "Güçlü Manyetik Alan"
+ anomaly.6004.desc:0 "İlk veriler [Root.GetName] gezegeninin etrafında normalden çok daha güçlü bir manyetik alanın olduğunu gösterdi. Manyetik alan [Root.GetName] gezegeni daha yakına gelene kadar detaylı taramalarımı engelledi. Manyetik alanın gezegenin kabuğunda bulunan yüksek yoğunluktaki matalik cevherlerden kaynaklandığı görülüyor. Bu madeni cevherler yerel madencilik için tam bir nimet olacağa benziyor."
+ anomaly.6005.name:0 "Anormal Koşullar"
+ anomaly.6005.desc:0 "Taramalarımız [From.GetName] gezegeninin biraz olağandığı olduğunu gösteriyor. Daha yakından bir inceleme yapılması gerekmektedir."
+ anomaly.6006.name:0 "Anormal Koşullar"
+ anomaly.6006.desc:0 "[From.GetName] gezegeni için yapılan taramalar tamamlanmıdı. Bilim Subayımız [Root.GetLeaderName] burada bulunan anormal koşullar üzerine bir rapor hazırladı."
+ anomaly.6006.a:0 "Raporumuz, [Root.GetLeaderName]." 
+ anomaly.6007.name:0 "Madence Zengin"
+ anomaly.6007.desc:0 "[From.From.GetName] gezegeni, kabuğunda burada madencliği kazançlı bir iş haline getirecek olan kolayca erişilebilir bir maden bolluğuna sahip."
+ anomaly.6008.desc:0 "[From.From.GetName] gezegeni aniden ortaya çıkarak sık sık gezegenin yüzeyini tahribat eden sert fırtınaların olduğu, düzensiz bir hava modelinden muzdarip. Burada kurulacak rüzgar çiftlikleri yüksek miktarda enerji sağlayabilecektir."
+ anomaly.6009.desc:0 "[From.From.GetName] gezegeni aşırı derecede saldırgan bir canlı doğasına sahiptir ve yüzeyinde bir sonraki avını pusuya düşürmeyi bekliyen ölümcül yırtıcılar hüküm sürmektedir. Bu canlıların biyolojisi büyük araştırma imkanları sunmaktadır."
+ anomaly.6010.desc:0 "[From.From.GetName] gezegeni yaşanabilir olmasına rağmen kozmik radyasyona karşı çok az koruma sağlayan zayıf bir manyetik alana sahip."
+ anomaly.6011.desc:0 "[From.From.GetName] gezegeni zengin metalik cevher yataklarının neden olduğu anormal derecede yüksek bir manyetik alana sahiptir. Bu manyetik alan bilgisayarlarımız ve araçlarımızı kullanmamızı engeller fakat zengin madenler bunları talafi edecektir." #kontrol gerekli
+ anomaly.6012.desc:0 "[From.From.GetName] gezegeni oldukça kararsız levha hareketlerine sahip ve bu yüzden çok büyük depremlere ve volkanik aktivitelere yatkındır. Değerli mineral cevherleri sık sık yeryüzünde ortaya çıkmaktadır." #kontrol
+ anomaly.6013.desc:0 "[From.From.GetName] gezegeni yıldızının etrafında getgitsel bir şekilde dönmektedir yani bir tarafı sürekli gün ışığına mağruz kalırken öbür tarafı sonsuz karanlığa karanlığa hapsedilmiştir. Eğer burada yaşam varsa bile, iki tarafın buluştuğu alacakaranlık bölgelerine kısıtlı olması muhtemeldir."
+ anomaly.6014.desc:0 "Görülüyor ki [From.From.GetName] bir zamanlar bir gaz deviyken yıldızına olan yakınlığı ince atmosferini yok etmiştir. Geriye kalan sadece yüksek yoğunluktaki ve mineralce zengin metalik çekirdektir." #burn away yakıp kül etmektir ama atmosfer kül olamayacağına göre yok etmek ile değiştirdim
+ anomaly.6015.desc:0 "[From.From.GetName] gezegeninin güneşinin çevresinde aldığı yörüngesel yolda küçük asteroitler, meteorlar ve kuyruklu yıldız sürüleri vardır. Yeryüzeyinde korkutucu bir sıklıkta genellikle de arkasında değerli mineral cevherleri bırakan büyük çarpışmalar gerçekleşmektedir."
+ anomaly.6016.desc:0 "[From.From.GetName] gezegeninin olağanındışı yüksek miktarda doğal uydusu vardır. Gezegenin yörüngesindeki yüzlerce küçük ve cüce uydular değerli mineral cevherlerine sahiptir."
+ anomaly.6017.desc:0 "Görünüşe bakılırsa [From.From.GetName] gezegeni çoğunlukla içinde azcık oksijen taşıyan karbondan meydana gelmektedir. Sadece minarel bakımından zengin değil fakat aynı zamanda volkanik püskürmeler sıklıkla içersinden yeryüzüne elmaslar getirmektedir."
+ anomaly.6018.desc:0 "[From.From.GetName] gezegeninin atmosferinde yarı düzenli aralıklarla muhteşem şimşek fırtınaları meydana gelir. Yerel halk için bu pek eğlenceli olmasada burada bol araştırma imkanları vardır." #kontrol
+ anomaly.6019.desc:0 "[From.From.GetName] gezegeni olağandışı bir düşür yoğunluğu sahip ve bu yüzden kıyaslanabilir boyuttaki bir sürü gezegenlerden çok daha düşük bir yer çekimi vardır."
+ anomaly.6020.desc:0 "[From.From.GetName] gezegeni olağandışı yoğunluğa sahiptir ve bu yüzden rahatsız edici bir yükseklikte yer çekimi vardır. Yine de ağır metal miktarı fizik araştırmalarına büyük ölçüde yardım sunar." #kontrol
+ anomaly.6021.desc:0 "[From.From.GetName] gezegeni ya yapay olarak oluşturuldu ya da bir şekilde içi boşaltıldı. Nasıl ve neden olduğunu bilmiyoruz fakat bunu araştırması oldukça etkileyici."
+ anomaly.6022.desc:0 "[From.From.GetName] gezegeninin kabuğundaki kolayca erişilebilir mineral bolluğu madencilik için gerçekten sarsıcı bir fırsat sağlıyor."
+ anomaly.6023.desc:0 "[From.From.GetName] gezegeninin bu şekilde mi oluştu yoksa bilinmeyen bir ırk kaynaklarını mı çıkardı bilinmiyor. Ama şunu iyice biliyoruz ki burada çok az mineral bulunabilecektir."
+ anomaly.6024.desc:0 "[From.From.GetName] gezegenindeki yaşam formları çok büyük boyutlara sahiptir ve zarar vermek istemeseler bile oldukça tehlikeli olabilirler. Bu gezegenin devasa boyutlardaki yırtıcıları hakkında ne kadar az söylense iyidir. Eğer raştırmacılar denemeye yeterince cesaret gösterirlerse bu yırtıcılar araştırma verisinden bir hazine sunmaktadır." #kontrol
+ anomaly.6025.desc:0 "[From.From.GetName] belki bir zamanlar afetle yok edilmiş bir uyduya sahipti ya da belkide daha en baştan yörüngesel enkazı hiç birleşmedi. Sebebi her ne olursa olsun bu gezegen küçük asteroitler kuşağı tarafından çevrelenmektedir." #kontrol
+ anomaly.6026.desc:0 "[From.From.GetName] gezegeninin manzarısı tek kelimeyle harika. Bu gezegen üstünde yaşayan birisi sık sık bakılası yeni harikalar bulacaktır."
+ anomaly.6027.desc:0 "[From.From.GetName] gezegeninin havasındaki bir şey halkı üremek isteyen bir ruh haline sokuyor. Fazla söze gerek yok, bu şey yeryüzünde yapılan incelemeleri oldukça garipleştiriyor."
+ anomaly.6028.desc:0 "[From.From.GetName] gezegeninin havası doğal bir halüsinojen içeriyor. Bir taraftan halkın mutlu yaparken bir taraftan halkı diğer işleri yapmasından alıkoyuyor." #ara cümle çıkartıldı
  anomaly.6029.desc:0 "Life thrives on [From.From.GetName], the fauna is plentiful and the flora grows rapidly."
  anomaly.6030.desc:0 "Life struggles to survive on [From.From.GetName], and while some clings to a tenacious existence it is anemic and sickly."
  anomaly.6031.desc:0 "Some long-ago calamity rendered [From.From.GetName] rather heavily irradiated. With the passage of time it has become marginally habitable again, but so far little can grow here."
@@ -76,13 +76,13 @@
  ####################################
  # Anomaly Failure Events
  ####################################
- anomaly_failure.6000.desc:1 "Nothing interesting to report."
- anomaly_failure.6000.a:1 "Oh well."
+ anomaly_failure.6000.desc:1 "Bildirilecek ilginç bir şey bulunmamaktadır."
+ anomaly_failure.6000.a:1 "Pekala."
  
  ####################################
  # Colony Events
  ####################################
- colony_mod.1.name:0 "What Happened Here?"
+ colony_mod.1.name:0 "Ne oldu burada?"
  colony_mod.1.desc:0 "While it's obvious that some past calamity released a vast amount of radiation on [Root.GetName], it's not obvious what caused it. This mystery is now bothering more and more of the colonists who have made [Root.GetName] their home. After all, if we don't know how this happened, what is to say it could not happen again?"
  colony_mod.1.a:0 "Let's get to the bottom of this!"
  colony_mod.2.name:0 "Titanic Life"
@@ -91,7 +91,7 @@
  colony_mod.2.b:0 "No, leave the giants alone."
  colony_mod.2.c:0 "Ensure that the research does no harm."
  colony_mod.2.d:0 "Study them? Harvest them and see if anything is useful!"
- colony_mod.3.name:0 "Earthquake!"
+ colony_mod.3.name:0 "Deprem!"
  colony_mod.3.desc:0 "The unstable tectonic plates of [Root.GetName] have just violently shifted once again. Reports on the damage to the colony are just starting to arrive."
  colony_mod.3.a:0 "Let us hear it."
  colony_mod.4.name:0 "Comet Sighted Through Belt"
@@ -101,10 +101,10 @@
  colony_mod.5.desc:1 "While it cannot be denied that the intoxicating effects of [Root.GetName]'s atmosphere are enjoyable, and even helpful in some cases, there is pressure from the more conservative parts of the [Root.Owner.GetName] to crack down on the possibly addictive gases."
  colony_mod.5.a:1 "Shut it down!"
  colony_mod.5.b:0 "No, leave [Root.GetName] as it is."
- colony_mod.6.name:0 "Bombardment"
+ colony_mod.6.name:0 "Bombardıman"
  colony_mod.6.desc:0 "After a thorough investigation, we have come to an uncomfortable conclusion: [Root.GetName] was the site of an ancient genocide. As far as we can determine, the native population of [Root.GetName] was on the verge of becoming a space-faring race when a far more advanced race suddenly entered the System, bombarded [Root.GetName] from orbit, and left again, leaving the few survivors doomed to extinction."
  colony_mod.6.a:0 "Study the impact sites for details of the weapons used."
- colony_mod.7.name:0 "Interstellar War"
+ colony_mod.7.name:0 "Yıldızlararası Savaş"
  colony_mod.7.desc:0 "After a thorough investigation, we have come to an uncomfortable conclusion: [Root.GetName] was a casualty in some forgotten war. Who lived here and who they fought is unknown, but it is clear that they were wiped out following an extra-solar invasion force entering the system and the ensuring battle for the planet. While this is a chilling realization, we can at least be reasonably sure that it is unlikely to happen again."
  colony_mod.7.a:0 "Study what remains of the battlefields."
  colony_mod.8.name:0 "Racial Suicide"
