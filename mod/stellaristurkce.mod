@@ -1,4 +1,4 @@
-name = "[ST]ellaris Türkçe"
+name = "[ST]ellaris TR"
 path = "mod/stellaristurkce"
 tags={
 	"Translate"
