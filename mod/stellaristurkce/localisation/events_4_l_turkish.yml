@@ -54,7 +54,7 @@
  anomaly.6028.desc:0 "[From.From.GetName] gezegeninin havası doğal bir halüsinojen içeriyor. Bir taraftan halkın mutlu yaparken bir taraftan halkı diğer işleri yapmasından alıkoyuyor." #ara cümle çıkartıldı
  anomaly.6029.desc:0 "[From.From.GetName] gezegeninde hayat gelişiyor. Fauna çeşitlenirken iken flora da hızlı bir şekilde büyümekte."
  anomaly.6030.desc:0 "[From.From.GetName] gezegeninda yaşam hayatta kalmaya çalışıyor ve bazı canlılar kansız ve hasta bir yaşama sımsıkı sarılıyor." #KONTROL
- anomaly.6031.desc:0 "Some long-ago calamity rendered [From.From.GetName] rather heavily irradiated. With the passage of time it has become marginally habitable again, but so far little can grow here."
+ anomaly.6031.desc:0 "Uzun zaman önce bir facıa [From.From.GetName] gezegenini oldukça ağır radyasyona maruz bırakmış. Zamanın geçmesiyle azda olsa tekrar yerleşilebilir hale gelmiş fakat şuana kadar çok az şey burada yetişebiliyor." #kontrol
  anomaly.6660.desc.start:1 "Gemilerimiz [From.GetName] gezegeninin yüzeyini taradıkça olağandışı bir şey bulduğumuz netleşiyor."
  anomaly.6660.desc.default:1 "$anomaly.6660.desc.start$ [From.GetName] gezegeni daha önce benzerini görmediğimiz koşullara sahip.\n\n$anomaly.6660.desc.end$"
  anomaly.6660.desc.weather:1 "$anomaly.6660.desc.start$ Güçlü fırtınalar [From.GetPlanetMoon] uydusuna sürekli hasar vermekte. Bu durum bizim kaynaklarımıza ve araştırmamıza yardım edecek fakat aynı zaman nüfusumuz için bir engel olacaktır.\n\n$anomaly.6660.desc.end$"
@@ -71,7 +71,7 @@
  anomaly.6660.desc.lush:0 "$anomaly.6660.desc.start$ Buranın faunasının zenginmesinin önünde hiçbir engel yok ve bu bize gerekli kaynakları toplamamız için büyük fırsat sunabilir.\n\n$anomaly.6660.desc.end$"
  anomaly.6660.desc.terrible:0 "$anomaly.6660.desc.start$ Buradaki sert ve kasvetli ortam uygun yerleşke alanı için iyi değil.\n\n$anomaly.6660.desc.end$" #kontrol
  anomaly.6660.desc.end:0 "Böyle yeni gezegenleri inceledikçe daha çok düzensizliklerle karşılaşacağız ve bunların yayılmamızdaki etkisini küçümsememiz gerekir."
- anomaly.6660.a.tooltip:0 "A Planet Modifier appears on [From.GetName]."
+ anomaly.6660.a.tooltip:0 "A Planet Modifier appears on [From.GetName]." #???
 
  ####################################
  # Anomaly Failure Events
