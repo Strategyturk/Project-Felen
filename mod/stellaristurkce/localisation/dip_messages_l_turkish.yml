@@ -37,7 +37,7 @@
  05_NEUTRAL_GREETING:0 "Barış ve uzlaşma ruhuyla konuşalım, [From.GetSpeciesName]."
  06_NEUTRAL_GREETING:0 "Askeri maceracılığınız bizim için kaygı verici, [From.GetSpeciesName]. Şiddet hiçbir zaman cevap değildir."
  07_NEUTRAL_GREETING:0 "[Root.GetName] için konuşuyorum. Ordumuzun bu kanalı izlediğini bilin."
- 08_NEUTRAL_GREETING:0 "Barışçıl yollarınızı tekrar gözden geçirmelisiniz, [From.GetSpeciesName]. Birilerinin bundan istifade etmesi kaçınılamaz."
+ 08_NEUTRAL_GREETING:0 "Pasifist yollarınızı tekrar gözden geçirmelisiniz, [From.GetSpeciesName]. Birilerinin bundan istifade etmesi kaçınılamaz."
  09_NEUTRAL_GREETING:0 "Ruhlar size barış lütfetsin, [From.GetSpeciesName]. Sizin için ne yapabiliriz?"
  10_NEUTRAL_GREETING:0 "Maddecilik yolunu seçmiş olmanız bize kaygı veriyor, [From.GetSpeciesName]. Manevi ihtiyaçlarınızı unutmamalısınız."
  11_NEUTRAL_GREETING:0 "Çeviri programı aktif hale getirildi. Şimdi konuşabilirsiniz, [From.GetSpeciesName]."
