@@ -1187,7 +1187,7 @@
  elite_guard_army:0 "Elit Muhafız Ordusu"
  elite_guard_army_plural:0 "Elit Muhafız Orduları"
  elite_guard_army_desc:0 "Bu ordu hükümdarın etrafındaki muhafız ordusudur."
- elite_guard_army_proper:0 Elit Muhafız Ordusu"
+ elite_guard_army_proper:0 "Elit Muhafız Ordusu"
  elite_guard_army_plural_proper:0 "Elit Muhafız Orduları"
  elite_guard_army_desc_proper:0 "Bu ordu hükümdarın etrafındaki muhafız ordusudur."
  elite_guard_army_trigger_tooltip:0 "Bir hükümdarın ancak bir elit muhafız ordusu bulunabilir."
