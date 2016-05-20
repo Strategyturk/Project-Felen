@@ -4591,7 +4591,7 @@
  ALLIANCE_PREFIX_02:0 "Glorious"
  ALLIANCE_PREFIX_03:0 "Auspicious"
  ALLIANCE_PREFIX_04:0 "Harmonious"
- ALLIANCE_PREFIX_05:0 "Celestial"
+ ALLIANCE_PREFIX_05:0 "Gök"
  ALLIANCE_PREFIX_06:0 "Bright"
  ALLIANCE_PREFIX_07:0 "Golden"
  ALLIANCE_PREFIX_08:0 "Propitious"
@@ -6609,7 +6609,7 @@
  attitude_unfriendly:1 "§HUnfriendly§!"
  attitude_cordial:1 "§GCordial§!"
  attitude_rival:1 "§RRival§!"
- attitude_dismissive:1 "§YDismissive§Y"
+ attitude_dismissive:1 "§Yİlgisiz§Y"
  attitude_patronizing:1 "§GPatronizing§!"
  attitude_angry:1 "§RAngry§!"
 
@@ -6680,7 +6680,7 @@
  personality_spiritual_seekers:0 "Spiritual Seekers"
  personality_harmonious_hierarchy:1 "Harmonious Collective"
  
- personality_fallen_empire_spiritualist:0 "Holy Guardians"
+ personality_fallen_empire_spiritualist:0 "Kutsal Muhafızlar"
  personality_fallen_empire_materialist:0 "Keepers of Knowledge"
  personality_fallen_empire_xenophobe:0 "Saldırgan Yalnızlıkçı"
  personality_fallen_empire_xenophile:1 "Enigmatic Observers"
