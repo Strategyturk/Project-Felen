@@ -5831,14 +5831,14 @@
  ####################################
  # Democratic elections
  ####################################
- sk_administration:0 "Administration"
- sk_diplomacy:0 "Diplomacy"
- sk_military:0 "Military"
+ sk_administration:0 "Yönetim"
+ sk_diplomacy:0 "Diplomasi"
+ sk_military:0 "Askeri"
 
  ####################################
  # Ruler View
  ####################################
- LEADER_VIEW_TITLE:0 "New Ruler"
+ LEADER_VIEW_TITLE:0 "Yeni Lider"
  LEADER_VIEW_DESC:0 "Our Empire has chosen a Ruler for the next term."
  SKILL_VALUE:0 "Skill:£leader_skill|$LEVEL$ "
  EXPERIENCE:0 "Experience: $LEVEL|Y$"
