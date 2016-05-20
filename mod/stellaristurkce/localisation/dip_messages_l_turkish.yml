@@ -397,7 +397,7 @@
  HC_WAR_GREETING_03:0 "What does a [From.GetSpeciesName] know of sacrificing itself for a greater cause?"
  # Fallen: Holy Guardians
  HG_HOSTILE_GREETING_01:0 "Your ignorance and insolence will cost you dearly, young one."
- HG_NEUTRAL_GREETING_01:0 "We have been chosen as keepers of the sacred places in this galaxy. Our cause is beyond your understanding, but out instructions are not."
+ HG_NEUTRAL_GREETING_01:0 "Biz, bu galaksideki kutsal yerlerin koruyucusu olarak seçildik. Anlama kapasiteniz davamız için yeterli olmayabilir ama talimatlarımız için yeterlidir."
  HG_NEUTRAL_GREETING_02:0 "Do not trespass on the holy sites. Anyone who breaks this commandment will be dealt with according to the ancient protocols."
  HG_FRIENDLY_GREETING_01:0 "You are but a [From.GetSpeciesSpawnName], and yet you show such wisdom."
  HG_WAR_GREETING_01:0 "The galaxy must be purged of the [From.GetAdj] [From.GetSpeciesNamePluralInsult], or you must be disciplined until you learn your lesson."
