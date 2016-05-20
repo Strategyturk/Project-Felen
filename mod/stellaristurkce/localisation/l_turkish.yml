@@ -7040,7 +7040,7 @@
  NAME_LIST_DESC:0 "Yapılacaklar: İsim listeleri"
  SYSTEM_NAME:0 "Yıldız İsmi"
  SELECT_SYSTEM_INITIALIZER_LABEL:0 "Solar Sistem Başlangıcı"
- #RANDOM_SYSTEM_INITIALIZER_TIP: "§HRandom§!\n§LStart the game with a Randomized Solar System. Everything except the names of your Homeworld and the System's Star will be randomized."
+ #RANDOM_SYSTEM_INITIALIZER_TIP: "§HRastgele§!\n§LOyuna Rastgele bir Solar Sistem ile başla. Ana Gezegeniniz ve Yıldız Sisteminizin ismi dışında her şey rastgele olacak."
  RANDOM_SYSTEM_INITIALIZER_TIP:0 "$random_system_initializer_DESC$"
  CUSTOM_SYSTEM_INITIALIZER_TIP:0 "$NAME|H$\n$DESC|L$"
  random_system_initializer_DESC:0 "Rastgele solar sistem düzeni.\n\n$system_initializer_DESC$"
@@ -7049,7 +7049,7 @@
 
  sol_system_initializer_NAME:0 "Güneş Sistemi"
  sol_system_initializer_DESC:0 "Dünya'nın sistemiyle, komşu yıldızlarından modellenmiş sistem.\n\n$system_initializer_DESC$"
- deneb_system_NAME:0 "Deneb System"
+ deneb_system_NAME:0 "Deneb Sistemi"
  deneb_system_DESC:0 "İnsanların Milletler Topluluğu'nun başlangıcındaki solar sistem.\n\n$system_initializer_DESC$"
  CREATE_NEW:0 "Yeni Oluştur"
  BACK_TO_MENU:0 "Menüye Dön"
