@@ -1521,7 +1521,7 @@
  SUMMARY_SPECIES_MODIFIERS:0 "Tür Özellikleri"
  SUMMARY_EMPIRE_MODIFIERS:0 "İmparatorluk Özellikleri"
  SUMMARY_POP_MODIFIERS:0 "Nüfus Özellikleri"
- CUSTOMIZE:1 "Değiştir"
+ CUSTOMIZE:1 "Düzenle"
  READY:0 "Hazır"
  UNREADY:0 "Hazır Değil"
  PLAY:0 "Oyna"
@@ -7045,7 +7045,7 @@
  CUSTOM_SYSTEM_INITIALIZER_TIP:0 "$NAME|H$\n$DESC|L$"
  random_system_initializer_DESC:0 "Rastgele solar sistem düzeni.\n\n$system_initializer_DESC$"
  system_initializer_DESC:0 "§LSolar sisteminizin düzeni belirler, konumu değil.§!"
- CHANGE_SYSTEM_INITIALZIER:0 "Düzenle"
+ CHANGE_SYSTEM_INITIALZIER:0 "Değiştir"
 
  sol_system_initializer_NAME:0 "Güneş Sistemi"
  sol_system_initializer_DESC:0 "Dünya'nın sistemiyle, komşu yıldızlarından modellenmiş sistem.\n\n$system_initializer_DESC$"
