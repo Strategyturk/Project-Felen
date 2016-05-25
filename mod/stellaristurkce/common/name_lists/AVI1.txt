@@ -1,0 +1,200 @@
+﻿### Şablon
+AVI1 = {
+	### GEMİLER
+
+	ship_names = {
+
+		generic = {
+			"Soaring Yavrusu" "Fighting Yavrusu" "Nimble Yavrusu" "Defiant Yavrusu" "Resilient Yavrusu" "Furious Yavrusu"
+			"Confident Yavrusu" "Clever Yavrusu" "Cunning Yavrusu" "Prodigal Yavrusu" "Jubilant Yavrusu" "Impudent Yavrusu"
+			"Crazy Yavrusu" "Observant Yavrusu" "Vengeful Yavrusu" "Spiteful Yavrusu" "Vindictive Yavrusu" "Restless Yavrusu"
+			"Ravenous Yavrusu" "Ruthless Yavrusu" "Brave Yavrusu" "Fearless Yavrusu" "Jovial Yavrusu" "Indignant Yavrusu"
+			"Sly Yavrusu" "Silly Yavrusu" "Happy Yavrusu" "Unstable Yavrusu" "Prudent Yavrusu" "Solitary Yavrusu" 
+			"Perceptive Yavrusu" "Unpredictable Yavrusu" "Impetuous Yavrusu" "Baneful Yavrusu" "Devious Yavrusu" "Graceful Yavrusu"
+			"Unyielding Yavrusu" "Patient Yavrusu" "Stalwart Yavrusu" "Fierce Yavrusu" "Unforgiving Yavrusu" "Impervious Yavrusu"
+			"Lucky Yavrusu" "Courageous Yavrusu" "Brash Yavrusu" "Impertinent Yavrusu" "Dependable Yavrusu" "Spirited Yavrusu"
+			"Wild Yavrusu" "Vivacious Yavrusu" "Ardent Yavrusu" "Vigorous Yavrusu" "Mettlesome Yavrusu" "Lively Yavrusu"
+			"Brisk Yavrusu" "Animated Yavrusu" "Tenacious Yavrusu" "Pertinacious Yavrusu" "Stubborn Yavrusu" "Resolute Yavrusu"
+			"Obstinate Yavrusu" "Obdurate Yavrusu" "Ferocious Yavrusu" "Frenzied Yavrusu" "Tempestuous Yavrusu" "Turbulent Yavrusu"
+			"Reckless Yavrusu" "Savage Yavrusu" "Unrestrained Yavrusu" "Riotous Yavrusu" "Insane Yavrusu" "Boisterous Yavrusu"
+			"Rowdy Yavrusu" "Clamorous Yavrusu" "Persistent Yavrusu" "Vehement Yavrusu" "Zealous Yavrusu" "Passionate Yavrusu"
+			"Rapacious Yavrusu" "Valiant Yavrusu" "Dauntless Yavrusu" "Stout Yavrusu" "Unkempt Yavrusu" "Ungroomed Yavrusu"
+			"Deranged Yavrusu" "Demented Yavrusu" "Impatient Yavrusu" "Nonconforming Yavrusu" "Imprudent Yavrusu" "Rash Yavrusu"
+			"Heedless Yavrusu" "Oblivious Yavrusu" "Violent Yavrusu" "Undomesticated Yavrusu" "Feral Yavrusu" "Wayward Yavrusu"
+			"Capricious Yavrusu" "Volatile Yavrusu" "Mercurial Yavrusu" "Sprightly Yavrusu" "Blithe Yavrusu" "Merry Yavrusu"
+			"Joyous Yavrusu" "Cheerful Yavrusu" "Buoyant Yavrusu" "Invigorated Yavrusu" "Mirthful Yavrusu" "Spry Yavrusu"
+			"Alert Yavrusu" "Headstrong Yavrusu" "Unruly Yavrusu" "Refractory Yavrusu" "Eccentric Yavrusu" "Erratic Yavrusu"
+			"Peculiar Yavrusu" "Deviant Yavrusu" "Testy Yavrusu" "Cross Yavrusu" "Irascible Yavrusu" "Choleric Yavrusu"
+			"Wrathful Yavrusu" "Brusque Yavrusu" "Gruff Yavrusu" "Surly Yavrusu" "Uncivil Yavrusu" "Crabby Yavrusu" 
+			"Sullen Yavrusu" "Splenetic Yavrusu" "Ominous Yavrusu" "Gloomy Yavrusu" "Dour Yavrusu" "Imperious Yavrusu" 
+			"Haughty Yavrusu" "Proud Yavrusu" "Scornful Yavrusu" "Contemptuous Yavrusu" "Supercilious Yavrusu" "Singing Yavrusu"
+			"Attentive Yavrusu" "Watchful Yavrusu" "Impish Yavrusu"
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		
+		orbital_station = { }
+		mining_station = { }
+		research_station = { }
+		wormhole_station = { }
+		terraform_station = { }
+		observation_station = { }
+		outpost_station = {
+			random_names = {
+				"Dikkatli Göz" "Tetik Göz" "Dinlenen Göz" "Keskin Göz" "Hakaretçi Göz" "İhmalkar Göz" "Kurnaz Göz" "Bağnaz Göz" "Korkusuz Göz" "İnatçı Göz"
+			}
+			sequential_name = "%O% Sınır Karakolu"
+		}
+
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}	
+	}
+
+	ship_class_names = {
+		generic = {
+			V'Taka K'Mirom "M'Iskar Ro" S'Porak S'Kothan J'Kal Yeerel Yaaskan L'Dorak Bwiik Kraanak J'Vorok
+		}		
+	}
+
+	fleet_names = {
+		random_names = {
+			"Gilded Yıldız Sürüsü" "Plumed Yıldız Sürüsü" "Revered Yıldız Sürüsü" "Honored Yıldız Sürüsü" "Soaring Yıldız Sürüsü" "Perched Yıldız Sürüsü" "Y'Sarka Yıldız Sürüsü" "U'Ruusu Yıldız Sürüsü" "S'Sarona Yıldız Sürüsü" "T'Tsona Yıldız Sürüsü" "Y'Trana Yıldız Sürüsü" "S'Itanis Yıldız Sürüsü" "Y'Ysonni Yıldız Sürüsü"
+		}
+		sequential_name = "%O% Yıldız Sürüsü"
+	}
+	
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Savunma Kanadı"
+		}
+			
+		assault_army = {
+			sequential_name = "%O% Uzaydakiler"
+		}
+		
+		slave_army = {
+			sequential_name = "%O% Köle Ordusu"
+		}
+		
+		clone_army = { 
+			sequential_name = "%O% Klon Öncüleri"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% Makine Kolonu"
+		}
+		
+		android_army = {
+			sequential_name = "%O% Sibernetik Şok Ordusu"
+		}
+		
+		psionic_army = { 
+			sequential_name = "Telepatik Tarikat %R%"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Zeno Sürüsü"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%O% Ölüm Komandosu"
+		}
+	}
+		
+
+	### GEZEGENLER
+
+	planet_names = {
+
+		generic = {
+			names = {
+				S'Prekeel J'Khanal S'Narkeel K'Karom "S'Kerin Vak" "Soska V'Ta" S'Bakri Yeethkri Bwaakar V'Vidir V'Ra M'Rak'Vo K'Karaal
+				V'Bindak Yeerok Kraak Deekri T'Tra C'Knoor S'Pemkru Bwreek T'Valdra K'Vra'Kok J'Mideer Jyylkir S'Vrak T'Sondek Paaltok M'Ruut C'Viirb T'Bukred D'Vraadir K'Mhakreer V'Tyykre Vakwaark
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+		
+	}
+
+	### KARAKTERLER
+
+	character_names = {
+		default = {
+			# Tam isim
+			full_names = {
+				Kreemak B'Raaki Reetril Yeedik L'Krami Eerkal Y'Sarkee Y'Heetak Lagraak Skraak T'Anaark Reebik P'Kida D'Kheera K'Reel T'Rootik Skeerid P'Dykna Haatrek Y'Ridaak
+			}
+			
+			# Her zaman soyad eklenmeli
+			first_names = {
+			}
+			
+			# Her zaman ad eklenmeli
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				Kreemak B'Raaki Reetril Yeedik L'Krami Eerkal Y'Sarkee Y'Heetak Lagraak Skraak
+			}
+			
+			regnal_second_names = {
+				Koriik
+			}
+		}
+	}
+}

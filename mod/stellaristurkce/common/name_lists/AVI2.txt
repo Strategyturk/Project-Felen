@@ -1,0 +1,200 @@
+﻿### Kanatlı 2
+### Oluşturan: Maximilian Olbers
+### Temel Şablon Oluşturucusu: Henrik Eklund
+
+AVI2 = {
+	selectable = yes
+
+	ship_names = {
+		generic = {
+			"Soaring Tüy" "Fighting Tüy" "Nimble Tüy" "Defiant Tüy" "Resilient Tüy" "Furious Tüy"
+			"Confident Tüy" "Clever Tüy" "Cunning Tüy" "Prodigal Tüy" "Jubilant Tüy" "Impudent Tüy"
+			"Crazy Tüy" "Observant Tüy" "Vengeful Tüy" "Spiteful Tüy" "Vindictive Tüy" "Restless Tüy"
+			"Ravenous Tüy" "Ruthless Tüy" "Brave Tüy" "Fearless Tüy" "Jovial Tüy" "Indignant Tüy"
+			"Sly Tüy" "Silly Tüy" "Happy Tüy" "Unstable Tüy" "Prudent Tüy" "Solitary Tüy" 
+			"Perceptive Tüy" "Unpredictable Tüy" "Impetuous Tüy" "Baneful Tüy" "Devious Tüy" "Graceful Tüy"
+			"Unyielding Tüy" "Patient Tüy" "Stalwart Tüy" "Fierce Tüy" "Unforgiving Tüy" "Impervious Tüy"
+			"Lucky Tüy" "Courageous Tüy" "Brash Tüy" "Impertinent Tüy" "Dependable Tüy" "Spirited Tüy"
+			"Wild Tüy" "Vivacious Tüy" "Ardent Tüy" "Vigorous Tüy" "Mettlesome Tüy" "Lively Tüy"
+			"Brisk Tüy" "Animated Tüy" "Tenacious Tüy" "Pertinacious Tüy" "Stubborn Tüy" "Resolute Tüy"
+			"Obstinate Tüy" "Obdurate Tüy" "Ferocious Tüy" "Frenzied Tüy" "Tempestuous Tüy" "Turbulent Tüy"
+			"Reckless Tüy" "Savage Tüy" "Unrestrained Tüy" "Riotous Tüy" "Insane Tüy" "Boisterous Tüy"
+			"Rowdy Tüy" "Clamorous Tüy" "Persistent Tüy" "Vehement Tüy" "Zealous Tüy" "Passionate Tüy"
+			"Rapacious Tüy" "Valiant Tüy" "Dauntless Tüy" "Stout Tüy" "Unkempt Tüy" "Ungroomed Tüy"
+			"Deranged Tüy" "Demented Tüy" "Impatient Tüy" "Nonconforming Tüy" "Imprudent Tüy" "Rash Tüy"
+			"Heedless Tüy" "Oblivious Tüy" "Violent Tüy" "Undomesticated Tüy" "Feral Tüy" "Wayward Tüy"
+			"Capricious Tüy" "Volatile Tüy" "Mercurial Tüy" "Sprightly Tüy" "Blithe Tüy" "Merry Tüy"
+			"Joyous Tüy" "Cheerful Tüy" "Buoyant Tüy" "Invigorated Tüy" "Mirthful Tüy" "Spry Tüy"
+			"Alert Tüy" "Headstrong Tüy" "Unruly Tüy" "Refractory Tüy" "Eccentric Tüy" "Erratic Tüy"
+			"Peculiar Tüy" "Deviant Tüy" "Testy Tüy" "Cross Tüy" "Irascible Tüy" "Choleric Tüy"
+			"Wrathful Tüy" "Brusque Tüy" "Gruff Tüy" "Surly Tüy" "Uncivil Tüy" "Crabby Tüy" 
+			"Sullen Tüy" "Splenetic Tüy" "Ominous Tüy" "Gloomy Tüy" "Dour Tüy" "Imperious Tüy" 
+			"Haughty Tüy" "Proud Tüy" "Scornful Tüy" "Contemptuous Tüy" "Supercilious Tüy" "Singing Tüy"
+			"Attentive Tüy" "Watchful Tüy" "Impish Tüy"
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		
+		orbital_station = { }
+		mining_station = { }
+		research_station = { }
+		wormhole_station = { }
+		terraform_station = { }
+		observation_station = { }
+		outpost_station = {
+			random_names = {
+				"Dikkatli Göz" "Tetik Göz" "Dinlenen Göz" "Keskin Göz" "Hakaretçi Göz" "İhmalkar Göz" "Kurnaz Göz" "Bağnaz Göz" "Korkusuz Göz" "İnatçı Göz"
+			}
+			sequential_name = "%O% Sınır Karakolu"
+		}
+
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}	
+	}
+
+	ship_class_names = {
+		generic = {
+			Q'Dreeg Q'Polk Q'Doqur Q'Bewk Q'Rekoth Q'Jarok
+		}		
+	}
+
+	fleet_names = {
+		random_names = {
+			"Dalurkot Kuyruklu Yıldızı" "Tordalit Kuyruklu Yıldızı" "Quadatia Kuyruklu Yıldızı" "Saqrosta Kuyruklu Yıldızı" "Eekaratia Kuyruklu Yıldızı" "Kittoral Kuyruklu Yıldızı" "Buteqos Kuyruklu Yıldızı" "Yattori Kuyruklu Yıldızı" "Qruannia Kuyruklu Yıldızı" "Tiqisk Kuyruklu Yıldızı" "Loqarak Kuyruklu Yıldızı" "Fannoq Kuyruklu Yıldızı" "Giruus Kuyruklu Yıldızı"
+		}
+		sequential_name = "%O% Kuyruklu Yıldız"
+	}
+	
+	### ORDULAR
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Savunma Kanadı"
+		}
+			
+		assault_army = {
+			sequential_name = "%O% Saldırı Kanadı"
+		}
+		
+		slave_army = {
+			sequential_name = "%O% Köle Savaşçıları"
+		}
+		
+		clone_army = { 
+			sequential_name = "%O% Saldırı Kopyaları"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% Droid Güçleri"
+		}
+		
+		android_army = {
+			sequential_name = "%O% Nano Kuvvet"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%O% Psişik Kanat"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Zenomorf Kanadı"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%O% Miraç Kanadı"
+		}
+	}
+
+	### GEZEGENLER
+
+	planet_names = {
+
+		generic = {
+			names = {
+				Qufant Koltren Karakt Ryygd Praadyk Bukraal Qrueen Klaht Lajkut Jiindet Poqats Kraajl Ruuq Yeedru Eetrak Stujk Baakrot Qaadlud Sondeeq Eekryt Tikeq Kitrel Butoq Qudater Saqraat Yatru
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+	}
+
+	### KARAKTERLER
+
+	character_names = {
+		default = {
+			# Tam isim
+			full_names = {
+				Bhunakh Taradak Loketral Yurulek Krotyug Laktras Heektor Datnaq Qutrok Traak Kryydur Tryykad Dluuret Klotrast Tabhuk Qotryyk Lytalk Bhudlakras Tuyledek Dalurkot
+			}
+			
+			# Her zaman soyad eklenmeli
+			first_names = {
+			}
+			
+			# Her zaman ad eklenmeli
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				Bhunakh Taradak Loketral Yurulek Krotyug Laktras Heektor Datnaq Qutrok Traak
+			}
+			
+			regnal_second_names = {
+				Kirvus
+			}
+		}
+	}
+}

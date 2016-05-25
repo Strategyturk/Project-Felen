@@ -1,3 +1,62 @@
+turkic = {
+	name = "turkic"
+	spawn_enabled = no # yes / no / always
+	
+	name_list = "Turkic"
+	ship_prefix = ""
+	
+	species_name = "Türk"
+	species_plural = "Türkler"	#we should localize this!
+	species_adjective = "Türk"
+	species_class = "MAM"
+	trait = "trait_talented"
+	trait = "trait_nomadic"	
+	portrait = "human"
+	adjective = "Türk"
+	
+	government = "military_dictatorship"
+	ethic = "ethic_spiritualist"
+	ethic = "ethic_fanatic_militarist"
+
+	flags = { turkic custom_start_screen }
+	
+	weapon = "tech_mass_drivers_1"
+	ftl = hyperdrive
+	
+	planet_name = "Cihan"
+	planet_class = "pc_continental"
+	initializer = "sol_system_initializer"
+	system_name = "Kün"
+	
+	graphical_culture = "mammalian_01"
+	city_graphical_culture = "mammalian_01"
+	
+	empire_flag = {
+		icon= {
+			category = "human"
+			file = "flag_round_5.dds"
+		}
+		background= {
+			category = "backgrounds"
+			file = "00_solid.dds"
+		}
+		colors={
+			"red"
+			"red"
+			"null"
+			"null"
+		}
+	}
+	
+	ruler = {
+		name = "Oğuz Kağanoğlu"
+		gender = male
+		portrait = "human_male_01"
+		texture = 0
+		hair = 4
+		clothes = 5
+	}
+}
 humans1 = {
 	name = "humans1"
 	spawn_enabled = no # yes / no / always
@@ -12,7 +71,7 @@ humans1 = {
 	trait = "trait_quick_learners"
 	trait = "trait_nomadic"	
 	portrait = "human"
-	adjective = "Human"
+	adjective = "İnsan"
 	
 	government = "indirect_democracy"
 	ethic = "ethic_xenophile"
@@ -70,14 +129,14 @@ humans2 = {
 	name_list = "Human2"
 	ship_prefix = "CNS"
 	
-	species_name = "Human"
-	species_plural = "Humans"	#we should localize the names!
-	species_adjective = "Human"
+	species_name = "İnsan"
+	species_plural = "İnsanlar"	#we should localize the names!
+	species_adjective = "İnsan"
 	species_class = "MAM"
 	trait = "trait_quick_learners"
 	trait = "trait_nomadic"	
 	portrait = "human"
-	adjective = "Human"
+	adjective = "İnsan"
 	
 	government = "military_dictatorship"
 	ethic = "ethic_xenophobe"
@@ -258,7 +317,7 @@ ixidar = {
 	spawn_enabled = yes # yes / no / always
 	
 	species_name = "Ix'Idar"
-	species_plural = "Ix'Idars"	#we should localize the names!
+	species_plural = "Ix'Idarlar"	#we should localize the names!
 	species_adjective = "Ix'Idari"
 	adjective = "Ixidar"
 	
@@ -321,7 +380,7 @@ chinorr = {
 	species_name = "Chinorr"
 	species_plural = "Chinorr"	#we should localize the names!
 	species_adjective = "Chinorr"
-	adjective = "Chinorran"
+	adjective = "Chinorrlu"
 	
 	name_list = "MOL1"
 	ship_prefix = "CUS"
@@ -380,8 +439,8 @@ jehetma = {
 	
 	species_name = "Jehetma"
 	species_plural = "Jehetma"	#we should localize the names!
-	species_adjective = "Jehetman"
-	adjective = "Jahetman"
+	species_adjective = "Jehetmalı"
+	adjective = "Jahetmalı"
 	
 	name_list = "FUN1"
 	ship_prefix = "JDS"
@@ -439,9 +498,9 @@ scyldari = {
 	spawn_enabled = yes # yes / no / always
 	
 	species_name = "Scyldari"
-	species_plural = "Scyldarians"	#we should localize the names!
-	species_adjective = "Scyldarian"
-	adjective = "Scyldarian"
+	species_plural = "Scyldarililer"	#we should localize the names!
+	species_adjective = "Scyldarili"
+	adjective = "Scyldarili"
 	
 	name_list = "MAM1"
 	ship_prefix = "SCS"
@@ -499,7 +558,7 @@ scyldari = {
 #kel_azaan = {
 #	name = "kel_azaan"
 #	species_name = "Kel-Azaan"
-#	species_plural = "Azaans"	#we should localize the names!
+#	species_plural = "Azaanlar"	#we should localize the names!
 #	species_adjective = "Kel-Azaan"
 #	adjective = "Azaan"
 #	
@@ -559,9 +618,9 @@ scyldari = {
 #paridni = {
 #	name = "paridni"
 #	species_name = "Paridni"
-#	species_plural = "Paridnis"	#we should localize the names!
-#	species_adjective = "Paridnian"
-#	adjective = "Paridnin"
+#	species_plural = "Paridniler"	#we should localize the names!
+#	species_adjective = "Paridnili"
+#	adjective = "Paridnili"
 #	
 #	name_list = "ART1"
 #	ship_prefix = "MPS"

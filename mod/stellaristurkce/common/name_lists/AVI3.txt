@@ -1,0 +1,210 @@
+﻿### Kanatlı Yırtıcı
+### Oluşturan: Johan Andersson 2015-07-31
+
+AVI3 = {
+	selectable = yes
+
+	ship_names = {
+		generic = {
+			"Çığlık" "Feryat" "Yaygara" "Uluyan" "Ağlayan"
+			"Uçan" "Tırmanan" "Yücelen" "Yükselen" "Uçan"
+			"Akıntı" "Yüzen" "Kayan" "Saldıran" "Pençe"
+			"Süpüren" "Dalış"
+		}
+		
+		corvette = {
+			"Keskin" "Hızlı" "Çılgın" "Kan Döken" "Kusur"
+			"Pıhtı" "Sakatlayan" "Hırpalayan" "Yara" "Acı"
+			"Yırtmaç" "Çizik" "Kesik" "Kırık" "Hasar"
+			"Felç" "Çirkinleştiren" "Keder" "Bozan" "Delici"
+		}
+		
+		constructor = {
+			"Yuva Yapan" "Yuva Kuran" "Yuva Yaratan" "Yuva Üretici" "Yuva İmalatçısı"
+			"Tünek Yapan" "Tünek Kuran" "Tünek Yaratan" "Tünek Üretici" "Tünek İmalatçısı"
+		}
+		
+		colonizer = {
+			" I. Yumurta Taşıyıcı" " II. Yumurta Taşıyıcı" " III. Yumurta Taşıyıcı" " IV. Yumurta Taşıyıcı" " V. Yumurta Taşıyıcı"
+			" VI. Yumurta Taşıyıcı" " VII. Yumurta Taşıyıcı" " VIII. Yumurta Taşıyıcı" " IX. Yumurta Taşıyıcı" " X. Yumurta Taşıyıcı"
+			" XI. Yumurta Taşıyıcı" " XII. Yumurta Taşıyıcı" " XIII. Yumurta Taşıyıcı" " XIV. Yumurta Taşıyıcı" " XV. Yumurta Taşıyıcı"
+			" XVI. Yumurta Taşıyıcı" " XVII. Yumurta Taşıyıcı" " XVIII. Yumurta Taşıyıcı" " XIX. Yumurta Taşıyıcı" " XX. Yumurta Taşıyıcı"
+		}
+		
+		science = {
+			"Dahili Göz" "Üçüncü Göz" "Görüntüleyen Göz" "İnceleyen Göz" "Çözümleyen Göz"
+			"Tasarlayan Göz" "Kararlaştıran Göz" "Değerlendiren Göz" "Düşünen Göz"
+			"Ölçen Göz" "Belirleyen Göz"  "Sınıflandıran Göz" "Tahmin Gözü" "Saptayan Göz"
+			"Denetleyen Göz" "Çalışan Göz" "İnceleyen Göz" "Araştıran Göz" "Gözlemleyen Göz"
+		}
+		
+		destroyer = {
+			"Keskin Pençe" "Hızlı Pençe" "Çılgın Pençe" "Kan Döken Pençe" "Kusurcu Pençe"
+			"Kanlı Pençe" "Korkunç Pençe" "Sakatlayan Pençe" "Hırpalayan Pençe" "Yaralayan Pençe"
+			"Yırtan Pençe" "Çizen Pençe" "Kesen Pençe" "Kıran Pençe" "Hasarlayan Pençe"
+			"Felç Eden Pençe" "Çirkinleştiren Pençe" "Kederli Pençe" "Bozan Pençe" "Delen Pençe"
+		}
+		
+		cruiser = {
+			"Keskin Gaga" "Hızlı Gaga" "Çılgın Gaga" "Kan Döken Gaga" "Kusurcu Gaga"
+			"Kanlı Gaga" "Korkunç Gaga" "Sakatlayan Gaga" "Hırpalayan Gaga" "Yaralayan Gaga"
+			"Yırtan Gaga" "Çizen Gaga" "Kesen Gaga" "Kıran Gaga" "Hasarlayan Gaga"
+			"Felç Eden Gaga" "Çirkinleştiren Gaga" "Kederli Gaga" "Bozan Gaga" "Delen Gaga"
+		}
+		
+		battleship = {
+			"Şanlı Cinayet" "Şanlı Kan Banyosu" "Şanlı Katliam" "Şanlı Kıyım" "Şanlı Kan Dökülmesi"
+			"Muazzam  Cinayet" "Muazzam  Kan Banyosu" "Muazzam  Katliam" "Muazzam  Kıyım" "Muazzam  Kan Dökülmesi"
+			"İlhamlı  Cinayet" "İlhamlı  Kan Banyosu" "İlhamlı  Katliam" "İlhamlı  Kıyım" "İlhamlı  Kan Dökülmesi"
+			"Enfes Cinayet" "Enfes Kan Banyosu" "Enfes Katliam" "Enfes Kıyım" "Enfes Kan Dökülmesi"
+		}
+		
+		orbital_station = { }
+		mining_station = { }
+		research_station = { }
+		wormhole_station = { }
+		terraform_station = { 
+			"Yuva Bileyleyen" "Tünek Bileyleyen"
+		}
+		observation_station = { }
+		outpost_station = {
+			random_names = {
+				"Dikkatli Göz" "Tetik Göz" "Dinlenen Göz" "Keskin Göz" "Hakaretçi Göz" "İhmalkar Göz" "Kurnaz Göz" "Bağnaz Göz" "Korkusuz Göz" "İnatçı Göz"
+			}
+			sequential_name = "%O% Sınır Karakolu"
+		}
+		
+		transport = {
+		}
+
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}
+	}
+
+	fleet_names = {
+		random_names = {
+			"Fidgit Cinayeti" "Trast Cinayeti" "Croo Cinayeti" "Carcan Cinayeti" "Tripato Cinayeti" "Foosh Cinayeti" "Urya Cinayeti" "Larii Cinayeti" "Cawica Cinayeti" "Foroo Cinayeti" "Try'tara Cinayeti" "Rickit Cinayeti" "Barraw Cinayeti" "Ca'tawa Cinayeti"
+		}
+		sequential_name = "%O% Cinayeti"
+	}
+
+	### ORDULAR
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Savunma Sürüsü"
+		}
+			
+		assault_army = {
+			sequential_name = "%O% Saldırı Sürüsü"
+		}
+		
+		slave_army = {
+			sequential_name = "%O% Bağlı Ordu"
+		}
+		
+		clone_army = { 
+			sequential_name = "Replika Kuvveti %R%"
+		}
+		
+		robotic_army = {
+			sequential_name = "Droid Kuvveti %R%"
+		}
+		
+		android_army = {
+			sequential_name = "Android Kuvveti %R"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%O% Yücelen Zihin"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Zeno Sürüsü"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%O% Mutasyon Sürüsü"
+		}
+	}
+
+	planet_names = {
+
+		# Bütün gezegen türlerine atanabilen isimler
+		generic = {
+			names = {
+				"Trast" "Fidgit" "Micaw" "Craw't" "Caw'taan" "Krachaw's Nest" "Frackaw's Eyrie" "Rickichi's Roost" "Lirchi's Nest" "Croo's Cocoon" "Carcana" "Frippit" "Whoo'tar" "Fashaaw" "Chyy'ta" "Fyyrt" "Drakoo" "Foshoo's Rest" "Ury" "Travuu" "Kloo" "Claive" "Biribit" "Rooki" "Tripitit" "Trobbi" "Trittita" "Foosh'ro" "Urytry"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+	}
+
+
+	### KARAKTERLER
+
+	character_names = {
+		default = {
+			# Tam isim
+			full_names = {
+			}
+			
+			# Her zaman soyad eklenmeli
+			first_names = {
+				Beyaz Gri Siyah Bordo Kızıl Mavi Lacivert Turkuaz Sarı Turuncu Fildişi Abanoz Mor Kahverengi Teal Yeşil Beril Haki Macenta Altın Gümüş
+				Bronz Kara Eflatun Kestane Zeytin
+			}
+			
+			# Her zaman ad eklenmeli
+			first_names = {
+			    "Pençe"
+				"Gaga"
+				"Kanat" 
+				"Tüy" 
+				"İbik" 
+				"Göz"
+			}
+			
+			regnal_first_names = {
+				"Kara Kanat" "Beyaz Kanat" "Kızıl Kanat" "Yıldız Kanat" "Gök Kanat" "Bulut Kanat" 
+			}
+			
+			regnal_second_names = {
+				Ekstak
+			}
+		}
+	}
+}

@@ -1,0 +1,140 @@
+﻿### YZ ULUSU
+AI = {
+	selectable = no
+	randomized = no
+	
+	### GEMİLER
+
+	ship_names = {
+	
+		
+
+		generic = {
+			"Altbirim A-001" "Altbirim A-002" "Altbirim A-003" "Altbirim A-004" "Altbirim A-005" "Altbirim A-006" "Altbirim A-007" "Altbirim A-008" "Altbirim A-009" "Altbirim A-010" "Altbirim A-011" "Altbirim A-012"
+			"Altbirim A-013" "Altbirim A-014" "Altbirim A-015" "Altbirim A-016" "Altbirim A-017" "Altbirim A-018" "Altbirim A-019" "Altbirim A-020" "Altbirim A-021" "Altbirim A-022" "Altbirim A-023" "Altbirim A-024"
+			"Altbirim A-025" "Altbirim A-026" "Altbirim A-027" "Altbirim A-028" "Altbirim A-029" "Altbirim A-030" "Altbirim A-031" "Altbirim A-032" "Altbirim A-033" "Altbirim A-034" "Altbirim A-035" "Altbirim A-036"
+			"Altbirim A-037" "Altbirim A-038" "Altbirim A-039" "Altbirim A-040" "Altbirim A-041" "Altbirim A-042" "Altbirim A-043" "Altbirim A-044" "Altbirim A-045" "Altbirim A-046" "Altbirim A-047" "Altbirim A-048"
+			"Altbirim A-049" "Altbirim A-050" "Altbirim A-051" "Altbirim A-052" "Altbirim A-053" "Altbirim A-054" "Altbirim A-055" "Altbirim A-056" "Altbirim A-057" "Altbirim A-058" "Altbirim A-059" "Altbirim A-060"
+			"Altbirim A-061" "Altbirim A-062" "Altbirim A-063" "Altbirim A-064" "Altbirim A-065" "Altbirim A-066" "Altbirim A-067" "Altbirim A-068" "Altbirim A-069" "Altbirim A-070" "Altbirim A-071" "Altbirim A-072"
+			"Altbirim A-073" "Altbirim A-074" "Altbirim A-075" "Altbirim A-076" "Altbirim A-077" "Altbirim A-078" "Altbirim A-079" "Altbirim A-080" "Altbirim A-081" "Altbirim A-082" "Altbirim A-083" "Altbirim A-084"
+			"Altbirim A-085" "Altbirim A-086" "Altbirim A-087" "Altbirim A-088" "Altbirim A-089" "Altbirim A-090" "Altbirim A-091" "Altbirim A-092" "Altbirim A-093" "Altbirim A-094" "Altbirim A-095" "Altbirim A-096"
+			"Altbirim A-097" "Altbirim A-098" "Altbirim A-099" "Altbirim A-100" "Altbirim A-101" "Altbirim A-102" "Altbirim A-103" "Altbirim A-104" "Altbirim A-105" "Altbirim A-106" "Altbirim A-107" "Altbirim A-108"
+			"Altbirim A-109" "Altbirim A-110" "Altbirim A-111" "Altbirim A-112" "Altbirim A-113" "Altbirim A-114" "Altbirim A-115" "Altbirim A-116" "Altbirim A-117" "Altbirim A-118" "Altbirim A-119" "Altbirim A-120"
+			"Altbirim A-121" "Altbirim A-122" "Altbirim A-123" "Altbirim A-124" "Altbirim A-125" "Altbirim A-126" "Altbirim A-127" "Altbirim A-128" "Altbirim A-129" "Altbirim A-130" "Altbirim A-131" "Altbirim A-132"
+			"Altbirim A-133" "Altbirim A-134" "Altbirim A-135" "Altbirim A-136" "Altbirim A-137" "Altbirim A-138" "Altbirim A-139" "Altbirim A-140" "Altbirim A-141" "Altbirim A-142" "Altbirim A-143" "Altbirim A-144"
+			"Altbirim A-145" "Altbirim A-146" "Altbirim A-147" "Altbirim A-148" "Altbirim A-149" "Altbirim A-150" "Altbirim A-151" "Altbirim A-152" "Altbirim A-153" "Altbirim A-154" "Altbirim A-155" "Altbirim A-156"
+			"Altbirim A-157" "Altbirim A-158" "Altbirim A-159" "Altbirim A-160" "Altbirim A-161" "Altbirim A-162" "Altbirim A-163" "Altbirim A-164" "Altbirim A-165" "Altbirim A-166" "Altbirim A-167" "Altbirim A-168"
+			"Altbirim A-169" "Altbirim A-170" "Altbirim A-171" "Altbirim A-172" "Altbirim A-173" "Altbirim A-174" "Altbirim A-175" "Altbirim A-176" "Altbirim A-177" "Altbirim A-178" "Altbirim A-179" "Altbirim A-180"
+			"Altbirim A-181" "Altbirim A-182" "Altbirim A-183" "Altbirim A-184" "Altbirim A-185" "Altbirim A-186" "Altbirim A-187" "Altbirim A-188" "Altbirim A-189" "Altbirim A-190" "Altbirim A-191" "Altbirim A-192"
+			"Altbirim A-193" "Altbirim A-194" "Altbirim A-195" "Altbirim A-196" "Altbirim A-197" "Altbirim A-198" "Altbirim A-199" "Altbirim A-200" "Altbirim A-201" "Altbirim A-202" "Altbirim A-203" "Altbirim A-204"
+			"Altbirim A-205" "Altbirim A-206" "Altbirim A-207" "Altbirim A-208" "Altbirim A-209" "Altbirim A-210" "Altbirim A-211" "Altbirim A-212" "Altbirim A-213" "Altbirim A-214" "Altbirim A-215" "Altbirim A-216"
+			"Altbirim A-217" "Altbirim A-218" "Altbirim A-219" "Altbirim A-220" "Altbirim A-221" "Altbirim A-222" "Altbirim A-223" "Altbirim A-224" "Altbirim A-225" "Altbirim A-226" "Altbirim A-227" "Altbirim A-228"
+			"Altbirim A-229" "Altbirim A-230" "Altbirim A-231" "Altbirim A-232" "Altbirim A-233" "Altbirim A-234" "Altbirim A-235" "Altbirim A-236" "Altbirim A-237" "Altbirim A-238" "Altbirim A-239" "Altbirim A-240" 
+			"Altbirim A-241" "Altbirim A-242" "Altbirim A-243" "Altbirim A-244" "Altbirim A-245" "Altbirim A-246" "Altbirim A-247" "Altbirim A-248" "Altbirim A-249" "Altbirim A-250" "Altbirim A-251" "Altbirim A-252" 
+			"Altbirim A-253" "Altbirim A-254" "Altbirim A-255" "Altbirim A-256" "Altbirim A-257" "Altbirim A-258" "Altbirim A-259" "Altbirim A-260" "Altbirim A-261" "Altbirim A-262" "Altbirim A-263" "Altbirim A-264" 
+			"Altbirim A-265" "Altbirim A-266" "Altbirim A-267" "Altbirim A-268" "Altbirim A-269" "Altbirim A-270" "Altbirim A-271" "Altbirim A-272" "Altbirim A-273" "Altbirim A-274" "Altbirim A-275" "Altbirim A-276" 
+			"Altbirim A-277" "Altbirim A-278" "Altbirim A-279" "Altbirim A-280" "Altbirim A-281" "Altbirim A-282" "Altbirim A-283" "Altbirim A-284" "Altbirim A-285" "Altbirim A-286" "Altbirim A-287" "Altbirim A-288"
+			"Altbirim A-289" "Altbirim A-290" "Altbirim A-291" "Altbirim A-292" "Altbirim A-293" "Altbirim A-294" "Altbirim A-295" "Altbirim A-296" "Altbirim A-297" "Altbirim A-298" "Altbirim A-299" "Altbirim A-300"
+		}
+
+		large_ship_ai = {
+		}
+		
+		small_ship_ai = {
+		}
+		
+		constructor = {
+			"Hizmet Birimi 1X-5"
+		}
+		
+		mining_station = { }
+		research_station = { }
+		wormhole_station = { }
+		terraform_station = { }
+		observation_station = { }
+		outpost_station = {
+			sequential_name = "%O% Sınır Karakolu"
+		}
+		
+		transport = {
+			"Taşıma Birimi D-56-1"
+		}
+		
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}
+	}
+
+	fleet_names = {
+		sequential_name = "Otonom Küme %CCC%"
+	}
+		
+
+	### GEZEGENLER
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"Node LF-54-9" "XR-29" "D3-72" "Hub 79-F" "Installation R-941" "XTR-12" "Conduit LT5-9" "Grid W-1-7" "Node O-155" "Node 245-L"
+				"Junction Y-42" "Junction NE-X-39" "Junction ML-9383" "Hub S-12" 
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+		
+	}
+
+	### KARAKTERLER
+
+	character_names = {
+
+		default = {
+			full_names = {
+				"Birim MZ-34" "Birim P2-XR0" "Birim 19-G" "Birim Q-12" "Birim XI-130" "Birim V13" "Birim 44/1" "Birim LFA-5" "Birim 15/57" "Birim J-14"
+				"Birim OR-004" "Birim KT-5" "Birim 0009-X" "Birim Alpha-2" "Birim 388-F" "Birim M8-4" "Birim 54.2" "Birim 54.1" "Birim 48B" "Birim XR-2"
+				"Birim FR-9" "Birim VK-12" "Birim HK-48" "Birim L8P9" "Birim IX-1442" "Birim U-89" "Birim PDX-1" "Birim S09-B" "Birim S0B" "Birim M1D" 
+				"Birim F-19" "Birim TLY-68" "Birim 14/2" "Birim BX-4" "Birim Kappa 5" "Birim Sigma" "Birim YT-8" "Birim M4-L" "Birim 38-38" "Birim 8-99"
+			}
+			
+			first_names = {
+			}
+			
+			second_names = {
+			}
+		}
+	}
+}
