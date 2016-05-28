@@ -53,7 +53,7 @@ bitmapfonts = {
 		fontfiles = { 
 			"gfx/fonts/cg_34"
 		}
-		languages = { "l_turkish" "l_russian" "l_polish" } 
+		languages = { "l_russian" "l_polish" } 
 	 }
 
 }
