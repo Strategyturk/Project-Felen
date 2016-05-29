@@ -92,6 +92,8 @@
  probe_search_4_poi:1 "Search [probe_system_4.GetName]"
  probe_ion_trail_poi:0 "Follow Ion Trail"
  probe_ion_trail_poi_desc:0 "An ion trail belonging to one of our missing probes leads to this system."
+ probe_subspace_anomaly_poi:2 "Obstructed by Hostiles"
+ probe_subspace_anomaly_poi_desc:1 "Hostiles prohibit us from getting to the subspace probe in this system."
  coming_storm_poi_1_poi:0 "Breach Point"
  coming_storm_poi_1_poi_desc:0 "Given their current vector, we estimate that the approaching mass of subspace contacts will enter our galaxy somewhere in the vicinity of these star systems."
  systems_visited_poi:0 "Systems Visited"
@@ -105,7 +107,6 @@
  extradimensional_invasion_2_poi_desc:0 "A second dimensional portal has appeared in the [second_portal_system.GetName] system. Like the first one, it is continuously bringing hostile extradimensional ships into our galaxy."
  extradimensional_invasion_3_poi:0 "The Third Portal"
  extradimensional_invasion_3_poi_desc:0 "A third portal has been detected in the [third_portal_system.GetName] system. Even now, it is spewing hostile extradimensional ships into our realm of existence."
- 
  vultaum_1_poi:0 "Vultaumar"
  vultaum_1_poi_desc:0 "We now have the coordinates of the Vultaum home system."
  yuht_1_poi:0 "Yuhtaan"

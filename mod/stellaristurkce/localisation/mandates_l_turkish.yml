@@ -25,7 +25,7 @@
  MANDATE_mandate_miner:0 "Off-World Miner"
  MANDATE_mandate_miner_DESC:1 "Bolster the [Root.Owner.GetName]'s mineral stockpiles by constructing at least four new orbital mining stations.\n\nReward:\n$mandate_influence_reward_t2$"
  MANDATE_mandate_shipwright:0 "Shipwright"
- MANDATE_mandate_shipwright_DESC:1 "Ensure the safety and security of the [Root.Owner.GetSpeciesAdj] people by maintaining fleets totaling at least twelve military vessels by the end of their reign.\n\nReward:\n$mandate_influence_reward_t2$"
+ MANDATE_mandate_shipwright_DESC:2 "Ensure the safety and security of the [Root.Owner.GetSpeciesAdj] people by maintaining a fleet that's using at least 75% of our total Naval Capacity by the end of their reign.\n\nReward:\n$mandate_influence_reward_t2$"
  MANDATE_mandate_peacemaker:0 "Peacemaker"
  MANDATE_mandate_peacemaker_DESC:1 "Stand down from any and all wars the [Root.Owner.GetName] is involved in, by the end of their reign.\n\nReward:\n$mandate_influence_reward_t2$"
  MANDATE_mandate_slaver:0 "Slaver"
@@ -52,7 +52,7 @@
  world_purged:0 "World Purged"
 
  mandate_shipwright_chain_title:0 "Shipwright Mandate"
- mandate_shipwright_chain_desc:1 "[This.GetRulerTitle] [This.GetRulerName] was elected on a platform of increasing military spending, guaranteeing that §Yat least 12 military vessels§! will be in service §Yby the end of their reign§!.\n\nReward:\n$mandate_influence_reward_t2$"
+ mandate_shipwright_chain_desc:2 "[This.GetRulerTitle] [This.GetRulerName] was elected on a platform of increasing military spending, guaranteeing that we are §Yat least using 75% of our Naval Capacity by the end of their reign§!.\n\nReward:\n$mandate_influence_reward_t2$"
  military_presence_maintained:0 "Mandate Fulfilled"
 
  mandate_fiscal_reserve_chain_title:0 "Fiscal Reserve Mandate"
@@ -109,7 +109,7 @@
 
  # Shipwright
  mandate.141.title:0 "Shipwright Mandate Fulfilled"
- mandate.141.desc:0 "As per [Root.GetRulerTitle] [Root.GetRulerName]'s mandate, at least twelve military vessels are currently in service."
+ mandate.141.desc:1 "As per [Root.GetRulerTitle] [Root.GetRulerName]'s mandate, we are currently using at least 75% of our Naval Capacity."
  mandate.142.title:0 "Mandate Unfulfilled"
  mandate.142.desc:0 "[Root.GetRulerTitle] [Root.GetRulerName] has failed to achieve their mandated goals within the appropriate timeframe."
 

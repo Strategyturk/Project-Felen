@@ -37,8 +37,8 @@
  MOD_COUNTRY_MAX_EMBASSIES:0 "Maximum Embassies"
  MOD_COUNTRY_TRADE_ATTRACTIVENESS:0 "Trade Attractiveness"
  WAR_ECONOMY_MOD:0 "§HModifiers at §R-100§! Defensive War Score:§!"
- MOD_COUNTRY_RESETTLEMENT_COST_MULT:0 "Resettlement Cost"
- MOD_POP_RESETTLEMENT_COST_MULT:0 "İskan Maliyeti"
+ MOD_COUNTRY_RESETTLEMENT_COST_MULT:1 "Resettlement Cost"
+ MOD_POP_RESETTLEMENT_COST_MULT:0 "Resettlement Cost"
 
  #Pop
  MOD_POP_FERTILITY:0 "Fertility"
@@ -64,7 +64,7 @@
  MOD_POP_EFF_WO_SLAVES:1 "Resource Output without Slaves"
  MOD_POP_FORTIFICATION_DEFENSE:0 "Fortification Defensive Bonus"
  MOD_POP_OTHER_SPECIES_HAPPINESS:0 "Other Species Happiness"
- MOD_POP_MIGRATION_TIME:0 "Göç Süresi"
+ MOD_POP_MIGRATION_TIME:0 "Migration Time"
  MOD_POP_MIGRATION_TIME_DESC:0 "The time it takes for Pops to spontaneously move between planets within our Empire is adjusted by this value."
  MOD_POP_SLAVE_PRODUCTION_OUTPUT:1 "Slave Mineral Output"
  MOD_POP_SLAVE_FOOD_OUTPUT:0 "Slave Food Output"
@@ -137,7 +137,7 @@
  MOD_PLANET_ADD_SPACEPORT:0 "Additional Orbital Building Slot"
  MOD_PLANET_SENSOR_RANGE_ADD:0 "Planet Sensor Range"
  MOD_PLANET_SENSOR_RANGE_MULT:0 "Planet Sensor Range"
- MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT:0 "Colony Development Speed"
+ MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT:1 "Colony Development Speed"
  MOD_PLANET_BUILDING_TIME_MULT:0 "Construction Time"
  MOD_PLANET_CLEAR_BLOCKER_TIME_MULT:0 "Clear Blocker Time"
  MOD_PLANET_BUILDING_COST_MULT:0 "Building Cost"
@@ -165,7 +165,7 @@
 
  #Leader
  MOD_LEADER_RULER_SKILL_LEVELS:0 "Ruler Skill Levels"
- MOD_LEADER_SKILL_LEVELS:0 "Yetkili Yetenek Seviyesi"
+ MOD_LEADER_SKILL_LEVELS:0 "Leader Skill Levels"
  MOD_LEADER_AGE:0 "Leader Lifespan"
  MOD_LEADER_ADMIRAL_SKILL_LEVELS:0 "Admiral Skills"
  MOD_LEADER_GENERAL_SKILL_LEVELS:0 "General Skills"
@@ -223,8 +223,8 @@
  max_minerals:0 "Mineral Storage Capacity"
  max_energy:0 "Energy Storage Capacity"
  max_influence:0 "Influence Storage Capacity"
- country_resource_energy_add:0 "Monthly Energy"
- country_resource_minerals_add:0 "Monthly Minerals"
+ country_resource_energy_add:1 "Monthly Energy"
+ country_resource_minerals_add:1 "Monthly Minerals"
 
  ####################################
  # Dynamic Modifiers
@@ -422,7 +422,7 @@
  sector_separatist_supporter_desc:0 "Sector separatist supporter"
  
  sponsored_rebels:0 "Sponsored Rebels"
- puppet_government:0 "Puppet Government"
+ puppet_government:1 "Puppet Government"
  
  ####################################
  # Pop Modifiers
@@ -557,7 +557,7 @@
  ## ACTIONS
  opinion_warmonger:0 "Warmonger"
  opinion_genocidal:0 "Genocidal"
- opinion_genocidal_our_species:0 "Purged our Species"
+ opinion_genocidal_our_species:1 "Purged our Species"
  opinion_slaver:0 "Slaver"
  opinion_nuker:0 "Terror Bombing"
 
@@ -578,7 +578,7 @@
  opinion_new_contact:0 "New Contact"
  opinion_embassy:0 "Embassy"
  opinion_threat:0 "Threat"
- opinion_relative_power:0 "Relative Power of Subjects"
+ opinion_relative_power:1 "Relative Power of Subjects"
  opinion_friction:0 "Border Friction"
  opinion_rivalry:0 "Our Rival"
  opinion_declared_rival:0 "Rivaling Us"
@@ -618,7 +618,7 @@
  
  opinion_took_station:0 "Seized Resource Station"
  opinion_liberated_us:0 "Liberator"
- opinion_we_liberated:0 "Liberated"
+ opinion_we_liberated:1 "Liberated"
  opinion_broke_away:0 "Breakaway State"
  opinion_broke_away_from:0 "Former Oppressors"
 

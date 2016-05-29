@@ -194,7 +194,7 @@
  tech_mass_drivers_2:0 "Coilguns"
  tech_mass_drivers_2_desc:0 "Coilguns are more powerful versions of the early mass drivers, using electromagnetic coils to rapidly accelerate projectiles towards targets.\n\n"
  tech_mass_drivers_3:0 "Railguns"
- tech_mass_drivers_3_desc:0 "The latest in electromagnetic accelerators, railguns use twin parallel rails to fire projectiles are incredible speeds.\n\n"
+ tech_mass_drivers_3_desc:0 "The latest in electromagnetic accelerators, railguns use twin parallel rails to fire projectiles at incredible speeds.\n\n"
  tech_mass_drivers_4:0 "Advanced Railguns"
  tech_mass_drivers_4_desc:0 "A new version of the venerable railgun, with sturdier rails and an enhanced power supply. These weapons are even more powerful and accurate than their predecessors.\n\n"
  tech_mass_drivers_5:0 "Gauss Cannons"
@@ -217,7 +217,7 @@
  tech_flak_batteries_2_desc:0 "Upgraded flak batteries with new, more powerful shrapnel rounds. They offer excellent defense against both strike craft and missiles.\n\n"
 
  # Missile Branch
- tech_missiles_1:0 "Nükleer Başlıklar"
+ tech_missiles_1:0 "Nuclear Missiles"
  tech_missiles_1_desc:0 "Space-to-space missiles equipped with high-yield nuclear warheads. Although based on old pre-space technology, these crude fire-and-forget weapons can be surprisingly effective at range.\n\n"
  tech_missiles_2:0 "Fusion Missiles"
  tech_missiles_2_desc:0 "These updated space-to-space missiles have more powerful fusion warheads and improved flight performance.\n\n"
@@ -696,7 +696,7 @@
  
  # Engineering
  tech_repeatable_improved_tile_mineral_output:0 "Extraction Patterns"
- tech_repeatable_improved_tile_mineral_output_desc:1 "Cross-linking weapon systems to fire in staggered volleys improves the actual damage output of Military Stations over time.\n\n"
+ tech_repeatable_improved_tile_mineral_output_desc:2 "Changes in how mineral deposits are evaluated relative to each other lead to more efficient boring patterns.\n\n"
  tech_repeatable_improved_military_station_damage:0 "Synchronized Firing Patterns"
  tech_repeatable_improved_military_station_damage_desc:1 "Cross-linking weapon systems to fire in staggered volleys improves the actual damage output of Military Stations over time.\n\n"
  tech_repeatable_improved_military_station_health:0 "Fortified Core Layers"

@@ -1,6 +1,6 @@
-name = "[ST]ellaris TR"
+name = "[ST]ellaris Türkçe"
 path = "mod/stellaristurkce"
 tags={
 	"Translate"
 }
-supported_version="1.0.x"
+supported_version="1.1.x"

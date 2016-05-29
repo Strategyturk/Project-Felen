@@ -128,7 +128,7 @@
  ACTION_DEMAND_VASSALIZATION_NOTIFICATION:0 "§H[From.GetName]§! vassalized §H[Root.GetName]§!."
  ACTION_ASK_TO_BECOME_VASSALIZED_NOTIFICATION:0 "§H[Root.GetName]§! vassalized §H[From.GetName]§!."
  ACTION_DEMAND_PROTECTORATE_NOTIFICATION:0 "§H[From.GetName]§! made a protectorate out of §H[Root.GetName]§!."
- ACTION_ASK_TO_BECOME_PROTECTORATE_NOTIFICATION:0 "§H[From.GetName]§! made a protectorate out of §H[Root.GetName]§!."
+ ACTION_ASK_TO_BECOME_PROTECTORATE_NOTIFICATION:0 "§H[Root.GetName]§! made a protectorate out of §H[From.GetName]§!."
  ACTION_FORM_FEDERATION_NOTIFICATION:0 "§H[From.GetAllianceName]§! voted to a form a $FEDERATION$."
  ACTION_INVITE_TO_FEDERATION_NOTIFICATION:0 "§H[From.GetName]§! joined the §H[From.GetAllianceName]§!."
  ACTION_ASK_TO_JOIN_FEDERATION_NOTIFICATION:0 "§H[Root.GetName]§! joined the §H[From.GetAllianceName]§!."

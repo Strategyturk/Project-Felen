@@ -175,7 +175,7 @@
  tutorial.21.name:0 "Science Ship Built"
  tutorial.21.desc:0 "Double the §SScience Ships§! means double the fun! Oh, I haven't been this excited since we completed the last assignment!"
  tutorial.22.name:0 "Tutorial: Recruit Scientist"
- tutorial.22.desc:0 "We have a brand new §SScience Ship§!, but no §SScientist§! has been assigned to command it. My programming insists that I should point out the benefits of adding an organic §SScientist§! component to the mix.\n\nIf we cannot afford to recruit a new §SScientist§! we can always reassign one from another department, even though it is hardly ideal."
+ tutorial.22.desc:1 "We have a brand new §SScience Ship§!, but no §SScientist§! has been assigned to command it. My programming insists that I should point out the benefits of adding an organic §SScientist§! component to the mix.\n\nIf we cannot afford to recruit a new §SScientist§! we can always reassign one from another department, even though it is hardly ideal."
  tutorial.23.name:0 "Scientist Recruited"
  tutorial.23.desc:0 "Good. The §SScientist§! has assumed command of our new §SScience Ship§!, and can now be sent off at our leisure to explore new systems and/or meet some grisly fate."
  tutorial.24.name:0 "Tutorial: Build Colony Ship"
