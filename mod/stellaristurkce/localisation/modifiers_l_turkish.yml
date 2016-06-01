@@ -736,7 +736,7 @@
  upliftable_species:0 "Upliftable Species"
  upliftable_species_desc:0 "There are species here which can be uplifted, creating a colony on this planet would remove our option to uplift them."
  production_targets:0 "Production Targets"
- production_targets_desc:0 ""
+ production_targets_desc:1 ""
  biochemical_suppression:0 "Biochemical Suppression"
  biochemical_suppression_desc:0 ""
  slave_production_output_increase:0 "Slave Production"

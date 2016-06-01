@@ -106,8 +106,8 @@
  humiliated_desc:0 "We were publicly humiliated by another Empire."
  TOOLTIP_HAPPINESS_GOV_ETHOS:0 "$ETHIC$ Regime: $VAL$"
  TOOLTIP_HAPPINESS_XENO_OVERLORDS:0 "Alien Overlords: $VAL$"
- swarm_border:0 ""
- swarm_border_desc:0 ""
+ swarm_border:1 ""
+ swarm_border_desc:1 ""
 
  ####################################
  # Pop Modifiers

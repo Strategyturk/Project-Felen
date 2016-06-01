@@ -98,7 +98,7 @@
  colony_mod.4.desc:0 "[Root.GetName] gezegenindeki halk şuanda muhteşem bir manzaraya şahit oluyor. Bir kuyruklu yıldız [Root.GetName] gezegeninin asteroit kuşağından geçmekte ve görenler "nefes kesici" olarak tarif ettiler."
  colony_mod.4.a:0 "Gökyüzüne bakmaya devam edin!"
  colony_mod.5.name:0 "Önlem" #crackdown
- colony_mod.5.desc:1 "[Root.GetName] gezegenin atmosferinin sarhoş edici etkisinin hoş olması hatta bazı durumlarda yardımcı olması inkar edilememesine rağmen [Root.Owner.GetName] gezegeninin muhafazakar kısımları bu bağımlılık yapan gazlara karşı önlem alınması için baskı yapmaktalar." #[Root.Owner.GetName] neyi temsil ediyor?
+ colony_mod.5.desc:1 "[Root.GetName] gezegenin atmosferinin sarhoş edici etkisinin hoş olması hatta bazı durumlarda yardımcı olması inkar edilememesine rağmen [Root.Owner.GetName] ulusunun muhafazakar kısımları bu bağımlılık yapan gazlara karşı önlem alınması için baskı yapmaktalar."
  colony_mod.5.a:1 "Hemen önlem alın!"
  colony_mod.5.b:0 "Hayır, olduğu gibi bırakın."
  colony_mod.6.name:0 "Bombardıman"
@@ -111,7 +111,7 @@
  colony_mod.8.desc:0 "[Root.GetName] gezegeninin trajik tarihi su yüzüne çıkartıldı. Uzun zaman önce [Root.GetName] gezegenin iki rakip süper güç tarafından hükmedildiği görülüyor. Bir noktada savaş patlak verdi ve çekişme [Root.GetName] gezegenindeki tüm gelişmiş canlıların aşırı nükleer silah kullanımından ortadan kaldırılmasına kadar sürdü."
  colony_mod.8.a:0 "İnsanları böyle bir kadare sürükleyen ne olabilir?"
  colony_mod.9.name:0 "We just don't know." #buradaki just ın türkçe karşılığını bulamadım
- colony_mod.9.desc:0 "[Root.GetName] gezegeninin tarihi üzerine yoğun araştırmalara rağmen burada ne olduğunu bilemiyoruz.Geçmiş esarını koruyor."
+ colony_mod.9.desc:0 "[Root.GetName] gezegeninin tarihi üzerine yoğun araştırmalara rağmen burada ne olduğunu bilemiyoruz. Geçmiş esarını koruyor."
  colony_mod.9.a:0 "Rahatsız edici bir durum."
  colony_mod.10.name:1 "Önlem"
  colony_mod.10.desc:1 "[Root.GetName] gezegeninin atmosferi sarhoş edici unsurlardan tamamen temizlendi!"
