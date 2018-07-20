@@ -1,2 +1,2 @@
-# Stellaris Türkçe
-Strategyturk Ekibinin Stellaris Türkçe Çeviri Çalışması
+# Project Barbatus
+Strategyturk
